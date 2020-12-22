@@ -1,7 +1,91 @@
 fileFormatVersion: 2
 guid: 7c63b7ae65d3c60458c1602bf12d48a7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5358579805522640781
+    second: GuardiaIDLEMOVE_0
+  - first:
+      213: -6985884916977477965
+    second: GuardiaIDLEMOVE_1
+  - first:
+      213: 4780102985429457641
+    second: GuardiaIDLEMOVE_2
+  - first:
+      213: -2806505986956206717
+    second: GuardiaIDLEMOVE_3
+  - first:
+      213: 1468908010718518781
+    second: GuardiaIDLEMOVE_4
+  - first:
+      213: -5612492435401481165
+    second: GuardiaIDLEMOVE_5
+  - first:
+      213: -8868829837076779401
+    second: GuardiaIDLEMOVE_6
+  - first:
+      213: -495604141434243173
+    second: GuardiaIDLEMOVE_7
+  - first:
+      213: 4400894036405696823
+    second: GuardiaIDLEMOVE_8
+  - first:
+      213: -4705904340750110231
+    second: GuardiaIDLEMOVE_9
+  - first:
+      213: -3478069667612648280
+    second: GuardiaIDLEMOVE_10
+  - first:
+      213: 171748322635707659
+    second: GuardiaIDLEMOVE_11
+  - first:
+      213: -764175004057034203
+    second: GuardiaIDLEMOVE_12
+  - first:
+      213: 6584483795050597212
+    second: GuardiaIDLEMOVE_13
+  - first:
+      213: -4929896723460098217
+    second: GuardiaIDLEMOVE_14
+  - first:
+      213: 8711312675123932619
+    second: GuardiaIDLEMOVE_15
+  - first:
+      213: 6017960433110185562
+    second: GuardiaIDLEMOVE_16
+  - first:
+      213: 1074960079223099648
+    second: GuardiaIDLEMOVE_17
+  - first:
+      213: -5372781875374507258
+    second: GuardiaIDLEMOVE_18
+  - first:
+      213: 4927298347726044004
+    second: GuardiaIDLEMOVE_19
+  - first:
+      213: -2942819742590129217
+    second: GuardiaIDLEMOVE_20
+  - first:
+      213: 7867564186990297215
+    second: GuardiaIDLEMOVE_21
+  - first:
+      213: 5371589306913879107
+    second: GuardiaIDLEMOVE_22
+  - first:
+      213: -208355245650895165
+    second: GuardiaIDLEMOVE_23
+  - first:
+      213: 599387352979884160
+    second: GuardiaIDLEMOVE_24
+  - first:
+      213: -425006776834439310
+    second: GuardiaIDLEMOVE_25
+  - first:
+      213: 7517852918541920831
+    second: GuardiaIDLEMOVE_26
+  - first:
+      213: 2510017380416352463
+    second: GuardiaIDLEMOVE_27
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +125,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 152
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -73,9 +157,609 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1976
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f32c031ff7d5a40800000000000000
+      internalID: 5358579805522640781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1976
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b65cc94ea62d0f90800000000000000
+      internalID: -6985884916977477965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea9e44d656565240800000000000000
+      internalID: 4780102985429457641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1824
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dd773aca94d09d0800000000000000
+      internalID: -2806505986956206717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd5a9a9d0c926410800000000000000
+      internalID: 1468908010718518781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1672
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e353cddb6c12b0800000000000000
+      internalID: -5612492435401481165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e27a390469be480800000000000000
+      internalID: -8868829837076779401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1520
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b977990c8a24f19f0800000000000000
+      internalID: -495604141434243173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739b8162fcd131d30800000000000000
+      internalID: 4400894036405696823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1368
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1fe9e5fe441beb0800000000000000
+      internalID: -4705904340750110231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac13ed901a6bbfc0800000000000000
+      internalID: -3478069667612648280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1216
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b057871803c226200800000000000000
+      internalID: 171748322635707659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522a2f0f1ea1565f0800000000000000
+      internalID: -764175004057034203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1064
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8e412029c06b50800000000000000
+      internalID: 6584483795050597212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7577ccabc0d759bb0800000000000000
+      internalID: -4929896723460098217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 912
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdae1839bcc4e870800000000000000
+      internalID: 8711312675123932619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5673ef1127148350800000000000000
+      internalID: 6017960433110185562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 760
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00191d52f760bee00800000000000000
+      internalID: 1074960079223099648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b35aeb95b0075b0800000000000000
+      internalID: -5372781875374507258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 608
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b7496cdb7416440800000000000000
+      internalID: 4927298347726044004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbba8ec29010927d0800000000000000
+      internalID: -2942819742590129217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 456
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f704425a1f33f2d60800000000000000
+      internalID: 7867564186990297215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34473e5c308bb8a40800000000000000
+      internalID: 5371589306913879107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 304
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce93eb0206cb1df0800000000000000
+      internalID: -208355245650895165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0884a313f93715800800000000000000
+      internalID: 599387352979884160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27746a796921a1af0800000000000000
+      internalID: -425006776834439310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a235be567c45860800000000000000
+      internalID: 7517852918541920831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiaIDLEMOVE_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0f5c3428f55d220800000000000000
+      internalID: 2510017380416352463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
