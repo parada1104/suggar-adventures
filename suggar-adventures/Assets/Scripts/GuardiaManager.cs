@@ -40,7 +40,6 @@ public class GuardiaManager : MonoBehaviour
         {
             
             target = player.transform.position;
-            Debug.Log(target);
             
             animator.SetBool("isInRange",true);
             if (dist < visionAttackRange)
@@ -62,6 +61,11 @@ public class GuardiaManager : MonoBehaviour
         
         //esto mueve al guardia a la posición del player
         float fixedSpeed = speed * Time.deltaTime;
+        Vector3 actualPosition = transform.position;
+        float axis = target.x - actualPosition.x;
+        //dejar el axis entre 1 y -1
+        horizontalMovement = -axis * fixedSpeed;
+
         
         transform.position = Vector3.MoveTowards(transform.position, target, fixedSpeed);
         
