@@ -65,12 +65,22 @@ public class GuardiaManager : MonoBehaviour
         float axis = target.x - actualPosition.x;
         //dejar el axis entre 1 y -1
         horizontalMovement = -axis * fixedSpeed;
+        Debug.Log(actualPosition);
 
         
         transform.position = Vector3.MoveTowards(transform.position, target, fixedSpeed);
         
         //esto dibuja la línea que seguirá el guardia para llegar hasta el player (sólo será visible en la escena)
         Debug.DrawLine(transform.position,target,Color.red);
+        if( actualPosition.x != initialPosition.x)
+        {
+            animator.SetBool("isAtInitialPosition", false);
+        }
+        else
+        {
+            animator.SetBool("isAtInitialPosition", true);
+
+        }
     }
 
     private void OnDrawGizmos()
