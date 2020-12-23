@@ -1,7 +1,151 @@
 fileFormatVersion: 2
 guid: eeb932c84f792f84ca64f7b0788bd367
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6975507444265557273
+    second: Guardia_Atlas_0
+  - first:
+      213: -324292278133396
+    second: Guardia_Atlas_1
+  - first:
+      213: -8709581106649021828
+    second: Guardia_Atlas_2
+  - first:
+      213: -7992348421981794357
+    second: Guardia_Atlas_3
+  - first:
+      213: -4126378391792845186
+    second: Guardia_Atlas_4
+  - first:
+      213: 6742668035247020055
+    second: Guardia_Atlas_5
+  - first:
+      213: -302115161588769203
+    second: Guardia_Atlas_6
+  - first:
+      213: 1525616127575627246
+    second: Guardia_Atlas_7
+  - first:
+      213: 3651253016750126685
+    second: Guardia_Atlas_8
+  - first:
+      213: -5031386755966199633
+    second: Guardia_Atlas_9
+  - first:
+      213: -6920947895895785261
+    second: Guardia_Atlas_10
+  - first:
+      213: 8625664138772734572
+    second: Guardia_Atlas_11
+  - first:
+      213: -6902173639768309306
+    second: Guardia_Atlas_12
+  - first:
+      213: 1095293811475159213
+    second: Guardia_Atlas_13
+  - first:
+      213: 8541126509084047212
+    second: Guardia_Atlas_14
+  - first:
+      213: -563402861658178204
+    second: Guardia_Atlas_15
+  - first:
+      213: -498041302405726202
+    second: Guardia_Atlas_16
+  - first:
+      213: -3312753703126347938
+    second: Guardia_Atlas_17
+  - first:
+      213: -2658340544685378563
+    second: Guardia_Atlas_18
+  - first:
+      213: 1220671407816176395
+    second: Guardia_Atlas_19
+  - first:
+      213: -878199831705177827
+    second: Guardia_Atlas_20
+  - first:
+      213: -3624123020453040770
+    second: Guardia_Atlas_21
+  - first:
+      213: -2977771956876696085
+    second: Guardia_Atlas_22
+  - first:
+      213: 4639523107342029066
+    second: Guardia_Atlas_23
+  - first:
+      213: -7289895443040646714
+    second: Guardia_Atlas_24
+  - first:
+      213: 4701105376522111790
+    second: Guardia_Atlas_25
+  - first:
+      213: -4494441980714551141
+    second: Guardia_Atlas_26
+  - first:
+      213: -5114156184574310332
+    second: Guardia_Atlas_27
+  - first:
+      213: 3150935224352001093
+    second: Guardia_Atlas_28
+  - first:
+      213: 4245875694295358814
+    second: Guardia_Atlas_29
+  - first:
+      213: 5043662278807132849
+    second: Guardia_Atlas_30
+  - first:
+      213: 3637028935051018113
+    second: Guardia_Atlas_31
+  - first:
+      213: -8474935351978454675
+    second: Guardia_Atlas_32
+  - first:
+      213: -5465015269333588842
+    second: Guardia_Atlas_33
+  - first:
+      213: 4718092226853498571
+    second: Guardia_Atlas_34
+  - first:
+      213: 6118350216048152917
+    second: Guardia_Atlas_35
+  - first:
+      213: -6681018794876554355
+    second: Guardia_Atlas_36
+  - first:
+      213: 2352815721478187840
+    second: Guardia_Atlas_37
+  - first:
+      213: 2109423285434225408
+    second: Guardia_Atlas_38
+  - first:
+      213: 1721708726597022981
+    second: Guardia_Atlas_39
+  - first:
+      213: 3977702938360991100
+    second: Guardia_Atlas_40
+  - first:
+      213: -7804305484196906895
+    second: Guardia_Atlas_41
+  - first:
+      213: 4307520428269131566
+    second: Guardia_Atlas_42
+  - first:
+      213: -4194323940014131880
+    second: Guardia_Atlas_43
+  - first:
+      213: 6665575350549294343
+    second: Guardia_Atlas_44
+  - first:
+      213: 8923999858631412634
+    second: Guardia_Atlas_45
+  - first:
+      213: 4130098066389950650
+    second: Guardia_Atlas_46
+  - first:
+      213: 4215315458192207564
+    second: Guardia_Atlas_47
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +185,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 152
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -73,9 +217,1029 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Guardia_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d9a8f001bfdc060800000000000000
+      internalID: 6975507444265557273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1672
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d55f1de09defff0800000000000000
+      internalID: -324292278133396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1672
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c724bbbf02a512780800000000000000
+      internalID: -8709581106649021828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1672
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf0f9a9479751190800000000000000
+      internalID: -7992348421981794357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ef65417b82cb6c0800000000000000
+      internalID: -4126378391792845186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1520
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71897479ad4c29d50800000000000000
+      internalID: 6742668035247020055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1520
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4edd387cdbaecbf0800000000000000
+      internalID: -302115161588769203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1520
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee590c3f8c31c2510800000000000000
+      internalID: 1525616127575627246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56f678064bdba230800000000000000
+      internalID: 3651253016750126685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1368
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa89703276cec2ab0800000000000000
+      internalID: -5031386755966199633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1368
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d00524be8ad3ff90800000000000000
+      internalID: -6920947895895785261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1368
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62ef5f55d384b770800000000000000
+      internalID: 8625664138772734572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c18b87d4ad8630a0800000000000000
+      internalID: -6902173639768309306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1216
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da819ad1be3433f00800000000000000
+      internalID: 1095293811475159213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1216
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6770a3ae4d288670800000000000000
+      internalID: 8541126509084047212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1216
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dfc6515146e28f0800000000000000
+      internalID: -563402861658178204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60042aef21a9619f0800000000000000
+      internalID: -498041302405726202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1064
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4bc80f0cb602d0800000000000000
+      internalID: -3312753703126347938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1064
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3720eeb5dab1bd0800000000000000
+      internalID: -2658340544685378563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1064
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03fb529d22b0f010800000000000000
+      internalID: 1220671407816176395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11b76de7e100d3f0800000000000000
+      internalID: -878199831705177827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 912
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7da497705784bdc0800000000000000
+      internalID: -3624123020453040770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 912
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5ae30ae24dca6d0800000000000000
+      internalID: -2977771956876696085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 912
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0196545fa5e26040800000000000000
+      internalID: 4639523107342029066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c2d3d7b615da90800000000000000
+      internalID: -7289895443040646714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 760
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8743be6ead3140800000000000000
+      internalID: 4701105376522111790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 760
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f7e3c4d880a1c0800000000000000
+      internalID: -4494441980714551141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 760
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448c49ccb0ed609b0800000000000000
+      internalID: -5114156184574310332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c44c564ee5abb20800000000000000
+      internalID: 3150935224352001093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 608
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d90f6c2716cea30800000000000000
+      internalID: 4245875694295358814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 608
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba165fbe10bef540800000000000000
+      internalID: 5043662278807132849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 608
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f788feb82597230800000000000000
+      internalID: 3637028935051018113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d619ce2133bf26a80800000000000000
+      internalID: -8474935351978454675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 456
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6942943419d5824b0800000000000000
+      internalID: -5465015269333588842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 456
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce622ff1e70a7140800000000000000
+      internalID: 4718092226853498571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 456
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5511cf6ea1fb8e450800000000000000
+      internalID: 6118350216048152917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83bca9bdc04843a0800000000000000
+      internalID: -6681018794876554355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 304
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b69a4de61e6a020800000000000000
+      internalID: 2352815721478187840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0039e394d4d264d10800000000000000
+      internalID: 2109423285434225408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 304
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505718ff6fcb4e710800000000000000
+      internalID: 1721708726597022981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc8076fb3a33730800000000000000
+      internalID: 3977702938360991100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1787fc7d28981b390800000000000000
+      internalID: -7804305484196906895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 152
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2758bdd10367cb30800000000000000
+      internalID: 4307520428269131566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 152
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8557a8a5994cac5c0800000000000000
+      internalID: -4194323940014131880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d27113771e08c50800000000000000
+      internalID: 6665575350549294343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b8c5d079a68db70800000000000000
+      internalID: 8923999858631412634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab063b62f4e015930800000000000000
+      internalID: 4130098066389950650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce62c5531fcf7a30800000000000000
+      internalID: 4215315458192207564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

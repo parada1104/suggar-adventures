@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 31b75127ce25c6747a61844c4c00b779
+guid: f57a4a5edde314449bcedda5119ca7d2
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -50,6 +50,36 @@ TextureImporter:
   - first:
       213: 9096846051593143580
     second: _addy_atlas_15
+  - first:
+      213: 3740211130848751165
+    second: _addy_atlas_16
+  - first:
+      213: 478075709988700124
+    second: _addy_atlas_17
+  - first:
+      213: -2821260207002157685
+    second: _addy_atlas_18
+  - first:
+      213: 2317423003176737384
+    second: _addy_atlas_19
+  - first:
+      213: 2241369568880092983
+    second: _addy_atlas_20
+  - first:
+      213: -8871223480713579021
+    second: _addy_atlas_21
+  - first:
+      213: 2788807294533437492
+    second: _addy_atlas_22
+  - first:
+      213: -8115465988513694724
+    second: _addy_atlas_23
+  - first:
+      213: -2769601484541214666
+    second: _addy_atlas_24
+  - first:
+      213: 2275915833973958980
+    second: _addy_atlas_25
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -80,7 +110,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -468,6 +498,216 @@ TextureImporter:
       bones: []
       spriteID: c15cf99694d7e3e70800000000000000
       internalID: 9096846051593143580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _addy_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ea33ff436e7e330800000000000000
+      internalID: 3740211130848751165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _addy_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf7e95435772a600800000000000000
+      internalID: 478075709988700124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _addy_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8df0b61aced8d8d0800000000000000
+      internalID: -2821260207002157685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _addy_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1ba271f3292020800000000000000
+      internalID: 2317423003176737384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _addy_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e7736fb1fa1f10800000000000000
+      internalID: 2241369568880092983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _addy_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f576fcfe3513e480800000000000000
+      internalID: -8871223480713579021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _addy_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4380fa96575d3b620800000000000000
+      internalID: 2788807294533437492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _addy_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb70e75ea2106f80800000000000000
+      internalID: -8115465988513694724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _addy_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c680bf166099d0800000000000000
+      internalID: -2769601484541214666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _addy_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 0
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44964b6846da59f10800000000000000
+      internalID: 2275915833973958980
       vertices: []
       indices: 
       edges: []
