@@ -1,18 +1,48 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class GuardiaManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    
+    
+    //la variable visionRadius almacena el radio de vision que tendrá el guardia. la variable speed es la el multiplicador de la velocidad de movimiento
+    public float visionRadius;
+    public float speed;
+    
+    //player es la variable para guardar al jugador.
+    GameObject player;
+    //variable para guardar la posición inicial
+    Vector3 initialPosition;
     void Start()
     {
-        
+        //Se busca al jugador con el Tag(se cambia el tag dentro de unity)
+        player = GameObject.FindWithTag("Player");
+        //Guardamos nuestra posición inicia
+        initialPosition = transform.position;
     }
-
-    // Update is called once per frame
+    
     void Update()
     {
+        //el Guardia siempre tendrá como posición inicial el primer punto
+        Vector3 target = initialPosition;
+        //en el caso de que player ingrese al radio, la posición inicial pasará a ser la ubicación del player
+        float dist = Vector3.Distance(player.transform.position, transform.position);
+        if (dist < visionRadius) target = player.transform.position;
         
+        //esto mueve al guardia a la posición del player
+        float fixedSpeed = speed * Time.deltaTime;
+        transform.position = Vector3.MoveTowards(transform.position, target, fixedSpeed);
+        
+        //esto dibuja la línea que seguirá el guardia para llegar hasta el player (sólo será visible en la escena)
+        Debug.DrawLine(transform.position,target,Color.red);
+    }
+
+    private void OnDrawGizmos()
+    {   
+        //esta función dibuja el radio visión del guardia (Sólo lo dibuja en la escena)
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position,visionRadius);
     }
 }
