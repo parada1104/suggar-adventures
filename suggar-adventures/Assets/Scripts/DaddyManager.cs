@@ -24,6 +24,7 @@ public class DaddyManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //prueba git discord
         horizontalMovement = Input.GetAxisRaw("Horizontal") * runSpeed;
 
         if (Input.GetKeyDown(KeyCode.Space))
