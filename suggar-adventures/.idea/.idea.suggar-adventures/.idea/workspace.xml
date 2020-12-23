@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02faf6fd-f012-46a6-8573-09eab3141b7b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/Guardia/Guardia_Atlas_0 2.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GuardiaManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GuardiaManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animations/Guardia/ATTACK.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Guardia/ATTACK.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animations/Guardia/Guardia_Atlas_0 1.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Guardia/Guardia_Atlas_0 1.controller" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608694705243</updated>
       <workItem from="1608694767731" duration="4898000" />
-      <workItem from="1608736603881" duration="1451000" />
+      <workItem from="1608736603881" duration="4758000" />
     </task>
     <servers />
   </component>

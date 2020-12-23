@@ -11,7 +11,8 @@ public class GuardiaManager : MonoBehaviour
     public float visionRadius;
     public float visionAttackRange;
     public float speed;
-    
+    public CharacterController2D controller;
+    float horizontalMovement;
 
     private Animator animator;
     //player es la variable para guardar al jugador.
@@ -29,13 +30,18 @@ public class GuardiaManager : MonoBehaviour
     
     void Update()
     {
+        
         //el Guardia siempre tendrá como posición inicial el primer punto
         Vector3 target = initialPosition;
+        
         //en el caso de que player ingrese al radio, la posición inicial pasará a ser la ubicación del player
         float dist = Vector3.Distance(player.transform.position, transform.position);
         if (dist < visionRadius)
         {
+            
             target = player.transform.position;
+            Debug.Log(target);
+            
             animator.SetBool("isInRange",true);
             if (dist < visionAttackRange)
             {
@@ -51,14 +57,12 @@ public class GuardiaManager : MonoBehaviour
             animator.SetBool("isInRange",false);
         }
 
-        while (dist != visionRadius)
-        {
-            animator.SetBool("isInRange",true);
-        }
+        
         
         
         //esto mueve al guardia a la posición del player
         float fixedSpeed = speed * Time.deltaTime;
+        
         transform.position = Vector3.MoveTowards(transform.position, target, fixedSpeed);
         
         //esto dibuja la línea que seguirá el guardia para llegar hasta el player (sólo será visible en la escena)
@@ -72,5 +76,10 @@ public class GuardiaManager : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position,visionRadius);
         Gizmos.color = Color.magenta;
         Gizmos.DrawWireSphere(transform.position,visionAttackRange);
+    }
+    private void FixedUpdate()
+    {
+        controller.Move(horizontalMovement * Time.fixedDeltaTime, false, false);
+        
     }
 }
