@@ -9,8 +9,11 @@ public class GuardiaManager : MonoBehaviour
     
     //la variable visionRadius almacena el radio de vision que tendrá el guardia. la variable speed es la el multiplicador de la velocidad de movimiento
     public float visionRadius;
+    public float visionAttackRange;
     public float speed;
     
+
+    private Animator animator;
     //player es la variable para guardar al jugador.
     GameObject player;
     //variable para guardar la posición inicial
@@ -21,6 +24,7 @@ public class GuardiaManager : MonoBehaviour
         player = GameObject.FindWithTag("Player");
         //Guardamos nuestra posición inicia
         initialPosition = transform.position;
+        animator = GetComponent<Animator>();
     }
     
     void Update()
@@ -29,7 +33,29 @@ public class GuardiaManager : MonoBehaviour
         Vector3 target = initialPosition;
         //en el caso de que player ingrese al radio, la posición inicial pasará a ser la ubicación del player
         float dist = Vector3.Distance(player.transform.position, transform.position);
-        if (dist < visionRadius) target = player.transform.position;
+        if (dist < visionRadius)
+        {
+            target = player.transform.position;
+            animator.SetBool("isInRange",true);
+            if (dist < visionAttackRange)
+            {
+                animator.SetBool("isInAttackRange",true);
+            }
+            else
+            {
+                animator.SetBool("isInAttackRange",false);
+            }
+        }
+        else
+        {
+            animator.SetBool("isInRange",false);
+        }
+
+        while (dist != visionRadius)
+        {
+            animator.SetBool("isInRange",true);
+        }
+        
         
         //esto mueve al guardia a la posición del player
         float fixedSpeed = speed * Time.deltaTime;
@@ -44,5 +70,7 @@ public class GuardiaManager : MonoBehaviour
         //esta función dibuja el radio visión del guardia (Sólo lo dibuja en la escena)
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(transform.position,visionRadius);
+        Gizmos.color = Color.magenta;
+        Gizmos.DrawWireSphere(transform.position,visionAttackRange);
     }
 }

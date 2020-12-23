@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02faf6fd-f012-46a6-8573-09eab3141b7b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager2.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GuardiaManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GuardiaManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/Guardia/ATTACK.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Guardia/ATTACK.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/Guardia/Guardia_Atlas_0 1.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Guardia/Guardia_Atlas_0 1.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/Guardia/Guardia_Atlas_0.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Guardia/Guardia_Atlas_0.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/Guardia/IDLE.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Guardia/IDLE.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/Guardia/MOVE.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Guardia/MOVE.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animations/Guardia/Guardia_Atlas_0 2.controller" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +19,8 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/scripts/GuardiaManager.cs" />
       <option value="$PROJECT_DIR$/Assets/scripts/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/GuardiaManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1m2ba9RZsLWf93QYY0jYZQxQVvH" />
@@ -77,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608694705243</updated>
-      <workItem from="1608694767731" duration="4471000" />
+      <workItem from="1608694767731" duration="4898000" />
+      <workItem from="1608736603881" duration="1451000" />
     </task>
     <servers />
   </component>
@@ -96,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
