@@ -78,15 +78,10 @@ public class GuardiaManager : MonoBehaviour
             animator.SetBool("isAtInitialPosition", false);
         }
 
-        if (actualPosition == initialPosition)
+        if ((initialPosition.x)+.01> actualPosition.x && (initialPosition.x)-.01< actualPosition.x )
         {
             animator.SetBool("isAtInitialPosition",true);
         }
-        /*else
-        {
-            animator.SetBool("isAtInitialPosition", true);
-
-        }*/
     }
 
     private void OnDrawGizmos()
