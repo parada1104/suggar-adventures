@@ -65,7 +65,8 @@ public class GuardiaManager : MonoBehaviour
         float axis = target.x - actualPosition.x;
         //dejar el axis entre 1 y -1
         horizontalMovement = -axis * fixedSpeed;
-        Debug.Log(actualPosition);
+        Debug.Log(actualPosition.x);
+        Debug.Log(initialPosition.x);
 
         
         transform.position = Vector3.MoveTowards(transform.position, target, fixedSpeed);
@@ -76,11 +77,16 @@ public class GuardiaManager : MonoBehaviour
         {
             animator.SetBool("isAtInitialPosition", false);
         }
-        else
+
+        if (actualPosition == initialPosition)
+        {
+            animator.SetBool("isAtInitialPosition",true);
+        }
+        /*else
         {
             animator.SetBool("isAtInitialPosition", true);
 
-        }
+        }*/
     }
 
     private void OnDrawGizmos()
