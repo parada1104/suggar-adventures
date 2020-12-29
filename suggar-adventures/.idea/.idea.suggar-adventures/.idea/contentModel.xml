@@ -7,6 +7,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
+          <e p="CameraFollow.cs" t="Include" />
           <e p="CharacterController2D.cs" t="Include" />
           <e p="DaddyManager.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />
