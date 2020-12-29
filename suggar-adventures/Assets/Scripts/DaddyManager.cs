@@ -9,6 +9,7 @@ public class DaddyManager : MonoBehaviour
     private Rigidbody2D rigidbody2D;
     float horizontalMovement = 0f;
     bool jump = false;
+    
 
     //parameters
     public float runSpeed = 40f;
@@ -26,11 +27,26 @@ public class DaddyManager : MonoBehaviour
     {
         //prueba git discord
         horizontalMovement = Input.GetAxisRaw("Horizontal") * runSpeed;
+        Debug.Log(horizontalMovement);
+        if (horizontalMovement > 0 || horizontalMovement < 0)
+        {
+            animator.SetBool("IsInMove",true);
+        }
+        else
+        {
+            animator.SetBool("IsInMove",false);
+        }
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetButtonDown("Jump"))
         {
             jump = true;
+            animator.SetBool("IsInAir",true);
         }
+    }
+
+    public void OnLanding()
+    {
+        animator.SetBool("IsInAir",false);
     }
 
     //for movement
@@ -38,5 +54,6 @@ public class DaddyManager : MonoBehaviour
     {
         controller.Move(horizontalMovement * Time.fixedDeltaTime, false, jump);
         jump = false;
+        
     }
 }
