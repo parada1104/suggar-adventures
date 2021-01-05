@@ -1,0 +1,7162 @@
+fileFormatVersion: 2
+guid: e4e5d16ffb4500f4d82815c9e1bae1e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 184446678500710564
+    second: mantener-verde-el-pasto-mabelamber_0
+  - first:
+      213: 660738522325834334
+    second: mantener-verde-el-pasto-mabelamber_1
+  - first:
+      213: -2643834668688287918
+    second: mantener-verde-el-pasto-mabelamber_2
+  - first:
+      213: -5337753123688788839
+    second: mantener-verde-el-pasto-mabelamber_3
+  - first:
+      213: -1416286117104201112
+    second: mantener-verde-el-pasto-mabelamber_4
+  - first:
+      213: -2250165891944794431
+    second: mantener-verde-el-pasto-mabelamber_5
+  - first:
+      213: -4664717100587673048
+    second: mantener-verde-el-pasto-mabelamber_6
+  - first:
+      213: -6782706639533023861
+    second: mantener-verde-el-pasto-mabelamber_7
+  - first:
+      213: -3377521198216865881
+    second: mantener-verde-el-pasto-mabelamber_8
+  - first:
+      213: -3875578066824905901
+    second: mantener-verde-el-pasto-mabelamber_9
+  - first:
+      213: -2409520931152523902
+    second: mantener-verde-el-pasto-mabelamber_10
+  - first:
+      213: -4694512613740629635
+    second: mantener-verde-el-pasto-mabelamber_11
+  - first:
+      213: -9089589850360664142
+    second: mantener-verde-el-pasto-mabelamber_12
+  - first:
+      213: 7366699192376529919
+    second: mantener-verde-el-pasto-mabelamber_13
+  - first:
+      213: -8885921701843029373
+    second: mantener-verde-el-pasto-mabelamber_14
+  - first:
+      213: -8097733891631768967
+    second: mantener-verde-el-pasto-mabelamber_15
+  - first:
+      213: -8509229572316522681
+    second: mantener-verde-el-pasto-mabelamber_16
+  - first:
+      213: -2591283180314052467
+    second: mantener-verde-el-pasto-mabelamber_17
+  - first:
+      213: 2019211297298789144
+    second: mantener-verde-el-pasto-mabelamber_18
+  - first:
+      213: 2028567201565410703
+    second: mantener-verde-el-pasto-mabelamber_19
+  - first:
+      213: 5727364423775587947
+    second: mantener-verde-el-pasto-mabelamber_20
+  - first:
+      213: -2702461952012276300
+    second: mantener-verde-el-pasto-mabelamber_21
+  - first:
+      213: -1874734314747889304
+    second: mantener-verde-el-pasto-mabelamber_22
+  - first:
+      213: 8774933469067871472
+    second: mantener-verde-el-pasto-mabelamber_23
+  - first:
+      213: -447610110107880097
+    second: mantener-verde-el-pasto-mabelamber_24
+  - first:
+      213: -7095289813996334381
+    second: mantener-verde-el-pasto-mabelamber_25
+  - first:
+      213: -4861330879035892881
+    second: mantener-verde-el-pasto-mabelamber_26
+  - first:
+      213: -119938014645682334
+    second: mantener-verde-el-pasto-mabelamber_27
+  - first:
+      213: -3009097768164146581
+    second: mantener-verde-el-pasto-mabelamber_28
+  - first:
+      213: 8308353080040409160
+    second: mantener-verde-el-pasto-mabelamber_29
+  - first:
+      213: 5266425501922505660
+    second: mantener-verde-el-pasto-mabelamber_30
+  - first:
+      213: 1025792050928592138
+    second: mantener-verde-el-pasto-mabelamber_31
+  - first:
+      213: 779860168648935527
+    second: mantener-verde-el-pasto-mabelamber_32
+  - first:
+      213: 7568276770584953649
+    second: mantener-verde-el-pasto-mabelamber_33
+  - first:
+      213: 4174403176442676820
+    second: mantener-verde-el-pasto-mabelamber_34
+  - first:
+      213: 8486163616220342069
+    second: mantener-verde-el-pasto-mabelamber_35
+  - first:
+      213: 2494178840057948458
+    second: mantener-verde-el-pasto-mabelamber_36
+  - first:
+      213: 9184481251646043133
+    second: mantener-verde-el-pasto-mabelamber_37
+  - first:
+      213: 9204022437699975446
+    second: mantener-verde-el-pasto-mabelamber_38
+  - first:
+      213: 3353586710283715295
+    second: mantener-verde-el-pasto-mabelamber_39
+  - first:
+      213: -3204404451827283144
+    second: mantener-verde-el-pasto-mabelamber_40
+  - first:
+      213: 1353976702626150841
+    second: mantener-verde-el-pasto-mabelamber_41
+  - first:
+      213: 1912256280102582578
+    second: mantener-verde-el-pasto-mabelamber_42
+  - first:
+      213: 7379926505819085799
+    second: mantener-verde-el-pasto-mabelamber_43
+  - first:
+      213: -4193682555524446036
+    second: mantener-verde-el-pasto-mabelamber_44
+  - first:
+      213: 6322354151577085069
+    second: mantener-verde-el-pasto-mabelamber_45
+  - first:
+      213: -4139849364080747091
+    second: mantener-verde-el-pasto-mabelamber_46
+  - first:
+      213: 420952664510659742
+    second: mantener-verde-el-pasto-mabelamber_47
+  - first:
+      213: -3477681276152705341
+    second: mantener-verde-el-pasto-mabelamber_48
+  - first:
+      213: -4952343802851736502
+    second: mantener-verde-el-pasto-mabelamber_49
+  - first:
+      213: -1088507556582887649
+    second: mantener-verde-el-pasto-mabelamber_50
+  - first:
+      213: 7486194438613987451
+    second: mantener-verde-el-pasto-mabelamber_51
+  - first:
+      213: 3651960753521750559
+    second: mantener-verde-el-pasto-mabelamber_52
+  - first:
+      213: -7143162254443950170
+    second: mantener-verde-el-pasto-mabelamber_53
+  - first:
+      213: -1269217472935061509
+    second: mantener-verde-el-pasto-mabelamber_54
+  - first:
+      213: 6145935330097463293
+    second: mantener-verde-el-pasto-mabelamber_55
+  - first:
+      213: -8735053281872028935
+    second: mantener-verde-el-pasto-mabelamber_56
+  - first:
+      213: 3502673767846381521
+    second: mantener-verde-el-pasto-mabelamber_57
+  - first:
+      213: -6944720589209707590
+    second: mantener-verde-el-pasto-mabelamber_58
+  - first:
+      213: 1017722076388026924
+    second: mantener-verde-el-pasto-mabelamber_59
+  - first:
+      213: -7528946418794348945
+    second: mantener-verde-el-pasto-mabelamber_60
+  - first:
+      213: 6311297847676042926
+    second: mantener-verde-el-pasto-mabelamber_61
+  - first:
+      213: 4705002593948477346
+    second: mantener-verde-el-pasto-mabelamber_62
+  - first:
+      213: 2841703069804500540
+    second: mantener-verde-el-pasto-mabelamber_63
+  - first:
+      213: -6808313820675033223
+    second: mantener-verde-el-pasto-mabelamber_64
+  - first:
+      213: 5028375500026530204
+    second: mantener-verde-el-pasto-mabelamber_65
+  - first:
+      213: -4475332450814487733
+    second: mantener-verde-el-pasto-mabelamber_66
+  - first:
+      213: -346921915912298346
+    second: mantener-verde-el-pasto-mabelamber_67
+  - first:
+      213: 2782681892411201378
+    second: mantener-verde-el-pasto-mabelamber_68
+  - first:
+      213: 894360622361578466
+    second: mantener-verde-el-pasto-mabelamber_69
+  - first:
+      213: -6608775123475901615
+    second: mantener-verde-el-pasto-mabelamber_70
+  - first:
+      213: 1542915541553307433
+    second: mantener-verde-el-pasto-mabelamber_71
+  - first:
+      213: -3930729487512521951
+    second: mantener-verde-el-pasto-mabelamber_72
+  - first:
+      213: 1082743840720041818
+    second: mantener-verde-el-pasto-mabelamber_73
+  - first:
+      213: -8836270695584958755
+    second: mantener-verde-el-pasto-mabelamber_74
+  - first:
+      213: -518122321054607673
+    second: mantener-verde-el-pasto-mabelamber_75
+  - first:
+      213: 182938577535841998
+    second: mantener-verde-el-pasto-mabelamber_76
+  - first:
+      213: -7341386367776201517
+    second: mantener-verde-el-pasto-mabelamber_77
+  - first:
+      213: -7030806839160909453
+    second: mantener-verde-el-pasto-mabelamber_78
+  - first:
+      213: 7196876832115493362
+    second: mantener-verde-el-pasto-mabelamber_79
+  - first:
+      213: -7015754429920264086
+    second: mantener-verde-el-pasto-mabelamber_80
+  - first:
+      213: 4017333448406429622
+    second: mantener-verde-el-pasto-mabelamber_81
+  - first:
+      213: -659731440181475275
+    second: mantener-verde-el-pasto-mabelamber_82
+  - first:
+      213: -7759573651328522228
+    second: mantener-verde-el-pasto-mabelamber_83
+  - first:
+      213: 1725128131887074141
+    second: mantener-verde-el-pasto-mabelamber_84
+  - first:
+      213: -6363272490590676514
+    second: mantener-verde-el-pasto-mabelamber_85
+  - first:
+      213: -6158119216414397448
+    second: mantener-verde-el-pasto-mabelamber_86
+  - first:
+      213: -2191821721464222273
+    second: mantener-verde-el-pasto-mabelamber_87
+  - first:
+      213: 7131826501657544352
+    second: mantener-verde-el-pasto-mabelamber_88
+  - first:
+      213: 4402602197236475365
+    second: mantener-verde-el-pasto-mabelamber_89
+  - first:
+      213: -4028649650920056310
+    second: mantener-verde-el-pasto-mabelamber_90
+  - first:
+      213: 196793290881069251
+    second: mantener-verde-el-pasto-mabelamber_91
+  - first:
+      213: -5770823517540031099
+    second: mantener-verde-el-pasto-mabelamber_92
+  - first:
+      213: -2484343853798314323
+    second: mantener-verde-el-pasto-mabelamber_93
+  - first:
+      213: 4335421281654248707
+    second: mantener-verde-el-pasto-mabelamber_94
+  - first:
+      213: 4981396220617553664
+    second: mantener-verde-el-pasto-mabelamber_95
+  - first:
+      213: -3902043214915426923
+    second: mantener-verde-el-pasto-mabelamber_96
+  - first:
+      213: 8982597597190125127
+    second: mantener-verde-el-pasto-mabelamber_97
+  - first:
+      213: -3641937547655332824
+    second: mantener-verde-el-pasto-mabelamber_98
+  - first:
+      213: -3770022423928058325
+    second: mantener-verde-el-pasto-mabelamber_99
+  - first:
+      213: -4577140414935649689
+    second: mantener-verde-el-pasto-mabelamber_100
+  - first:
+      213: 8161801817172458501
+    second: mantener-verde-el-pasto-mabelamber_101
+  - first:
+      213: 2231571193045627189
+    second: mantener-verde-el-pasto-mabelamber_102
+  - first:
+      213: -3354766622151067736
+    second: mantener-verde-el-pasto-mabelamber_103
+  - first:
+      213: -3250218034660757430
+    second: mantener-verde-el-pasto-mabelamber_104
+  - first:
+      213: -7869125091776562487
+    second: mantener-verde-el-pasto-mabelamber_105
+  - first:
+      213: 4364812836653249659
+    second: mantener-verde-el-pasto-mabelamber_106
+  - first:
+      213: -8382545206684840297
+    second: mantener-verde-el-pasto-mabelamber_107
+  - first:
+      213: 8902749570552136776
+    second: mantener-verde-el-pasto-mabelamber_108
+  - first:
+      213: -4621719965478292291
+    second: mantener-verde-el-pasto-mabelamber_109
+  - first:
+      213: 7288002000200850381
+    second: mantener-verde-el-pasto-mabelamber_110
+  - first:
+      213: 3021154356663895164
+    second: mantener-verde-el-pasto-mabelamber_111
+  - first:
+      213: -1726555401573201533
+    second: mantener-verde-el-pasto-mabelamber_112
+  - first:
+      213: -552143254571652717
+    second: mantener-verde-el-pasto-mabelamber_113
+  - first:
+      213: -5448977104956735223
+    second: mantener-verde-el-pasto-mabelamber_114
+  - first:
+      213: -2376732026513066
+    second: mantener-verde-el-pasto-mabelamber_115
+  - first:
+      213: 2508453048495861880
+    second: mantener-verde-el-pasto-mabelamber_116
+  - first:
+      213: -8138284434077903792
+    second: mantener-verde-el-pasto-mabelamber_117
+  - first:
+      213: -8904162752748802359
+    second: mantener-verde-el-pasto-mabelamber_118
+  - first:
+      213: -2423605306902873222
+    second: mantener-verde-el-pasto-mabelamber_119
+  - first:
+      213: -305166097164771384
+    second: mantener-verde-el-pasto-mabelamber_120
+  - first:
+      213: -8558073733579523550
+    second: mantener-verde-el-pasto-mabelamber_121
+  - first:
+      213: -4741786675133023122
+    second: mantener-verde-el-pasto-mabelamber_122
+  - first:
+      213: 7497082646305218693
+    second: mantener-verde-el-pasto-mabelamber_123
+  - first:
+      213: -6098760949038731888
+    second: mantener-verde-el-pasto-mabelamber_124
+  - first:
+      213: 7688195859639830212
+    second: mantener-verde-el-pasto-mabelamber_125
+  - first:
+      213: -3238734963520780023
+    second: mantener-verde-el-pasto-mabelamber_126
+  - first:
+      213: -4783667336116099309
+    second: mantener-verde-el-pasto-mabelamber_127
+  - first:
+      213: -2551986321386344237
+    second: mantener-verde-el-pasto-mabelamber_128
+  - first:
+      213: 8975101218647995394
+    second: mantener-verde-el-pasto-mabelamber_129
+  - first:
+      213: -4752262587150234841
+    second: mantener-verde-el-pasto-mabelamber_130
+  - first:
+      213: -8860766705953201311
+    second: mantener-verde-el-pasto-mabelamber_131
+  - first:
+      213: -1961642643423208525
+    second: mantener-verde-el-pasto-mabelamber_132
+  - first:
+      213: 8609870844853526085
+    second: mantener-verde-el-pasto-mabelamber_133
+  - first:
+      213: 150277652961164839
+    second: mantener-verde-el-pasto-mabelamber_134
+  - first:
+      213: -5965667700006133705
+    second: mantener-verde-el-pasto-mabelamber_135
+  - first:
+      213: -5936655462508936350
+    second: mantener-verde-el-pasto-mabelamber_136
+  - first:
+      213: 8159574023081224599
+    second: mantener-verde-el-pasto-mabelamber_137
+  - first:
+      213: 2501226736774983417
+    second: mantener-verde-el-pasto-mabelamber_138
+  - first:
+      213: -940333708875767823
+    second: mantener-verde-el-pasto-mabelamber_139
+  - first:
+      213: -8491576181545204503
+    second: mantener-verde-el-pasto-mabelamber_140
+  - first:
+      213: 7426779915813482150
+    second: mantener-verde-el-pasto-mabelamber_141
+  - first:
+      213: -2745871943000199040
+    second: mantener-verde-el-pasto-mabelamber_142
+  - first:
+      213: -6180586952985470725
+    second: mantener-verde-el-pasto-mabelamber_143
+  - first:
+      213: 2713236694925780491
+    second: mantener-verde-el-pasto-mabelamber_144
+  - first:
+      213: 6419235723827342315
+    second: mantener-verde-el-pasto-mabelamber_145
+  - first:
+      213: -6701276766080447529
+    second: mantener-verde-el-pasto-mabelamber_146
+  - first:
+      213: -491285428263744332
+    second: mantener-verde-el-pasto-mabelamber_147
+  - first:
+      213: -4641439970505100821
+    second: mantener-verde-el-pasto-mabelamber_148
+  - first:
+      213: -8409106754027369814
+    second: mantener-verde-el-pasto-mabelamber_149
+  - first:
+      213: 8857537930935760256
+    second: mantener-verde-el-pasto-mabelamber_150
+  - first:
+      213: -9123851887496126016
+    second: mantener-verde-el-pasto-mabelamber_151
+  - first:
+      213: -5069649207163763586
+    second: mantener-verde-el-pasto-mabelamber_152
+  - first:
+      213: 2900675891494957737
+    second: mantener-verde-el-pasto-mabelamber_153
+  - first:
+      213: 448525825309580451
+    second: mantener-verde-el-pasto-mabelamber_154
+  - first:
+      213: 4261822230073956286
+    second: mantener-verde-el-pasto-mabelamber_155
+  - first:
+      213: 2299307687213146841
+    second: mantener-verde-el-pasto-mabelamber_156
+  - first:
+      213: 159945337037484121
+    second: mantener-verde-el-pasto-mabelamber_157
+  - first:
+      213: -6475814710110430995
+    second: mantener-verde-el-pasto-mabelamber_158
+  - first:
+      213: 4787028428168767851
+    second: mantener-verde-el-pasto-mabelamber_159
+  - first:
+      213: -8058979930740220880
+    second: mantener-verde-el-pasto-mabelamber_160
+  - first:
+      213: 6669792863157896663
+    second: mantener-verde-el-pasto-mabelamber_161
+  - first:
+      213: -3671016232017403921
+    second: mantener-verde-el-pasto-mabelamber_162
+  - first:
+      213: -4566804527985316493
+    second: mantener-verde-el-pasto-mabelamber_163
+  - first:
+      213: -3468276804501568290
+    second: mantener-verde-el-pasto-mabelamber_164
+  - first:
+      213: 7062525483342586010
+    second: mantener-verde-el-pasto-mabelamber_165
+  - first:
+      213: -4662219734007154556
+    second: mantener-verde-el-pasto-mabelamber_166
+  - first:
+      213: -1444694193385266654
+    second: mantener-verde-el-pasto-mabelamber_167
+  - first:
+      213: -6113023018312779446
+    second: mantener-verde-el-pasto-mabelamber_168
+  - first:
+      213: -3010003928708798902
+    second: mantener-verde-el-pasto-mabelamber_169
+  - first:
+      213: 3790353424190135543
+    second: mantener-verde-el-pasto-mabelamber_170
+  - first:
+      213: 7092703174022282501
+    second: mantener-verde-el-pasto-mabelamber_171
+  - first:
+      213: -4223331279362730560
+    second: mantener-verde-el-pasto-mabelamber_172
+  - first:
+      213: -4146075574304552688
+    second: mantener-verde-el-pasto-mabelamber_173
+  - first:
+      213: 4839198598123381775
+    second: mantener-verde-el-pasto-mabelamber_174
+  - first:
+      213: 7446504416863516729
+    second: mantener-verde-el-pasto-mabelamber_175
+  - first:
+      213: -6674145674343047927
+    second: mantener-verde-el-pasto-mabelamber_176
+  - first:
+      213: 8059820319446570895
+    second: mantener-verde-el-pasto-mabelamber_177
+  - first:
+      213: 7080423625257748452
+    second: mantener-verde-el-pasto-mabelamber_178
+  - first:
+      213: 2481965098195731470
+    second: mantener-verde-el-pasto-mabelamber_179
+  - first:
+      213: -598725321427548644
+    second: mantener-verde-el-pasto-mabelamber_180
+  - first:
+      213: -212981077329553180
+    second: mantener-verde-el-pasto-mabelamber_181
+  - first:
+      213: 7974043712587155961
+    second: mantener-verde-el-pasto-mabelamber_182
+  - first:
+      213: -9210838216674371981
+    second: mantener-verde-el-pasto-mabelamber_183
+  - first:
+      213: 7239192881688952541
+    second: mantener-verde-el-pasto-mabelamber_184
+  - first:
+      213: -5017398681240196727
+    second: mantener-verde-el-pasto-mabelamber_185
+  - first:
+      213: 6178058090922342808
+    second: mantener-verde-el-pasto-mabelamber_186
+  - first:
+      213: 2732622606646368419
+    second: mantener-verde-el-pasto-mabelamber_187
+  - first:
+      213: -4260990597181622083
+    second: mantener-verde-el-pasto-mabelamber_188
+  - first:
+      213: -7689700616761777315
+    second: mantener-verde-el-pasto-mabelamber_189
+  - first:
+      213: 9127655489350360511
+    second: mantener-verde-el-pasto-mabelamber_190
+  - first:
+      213: 672552822603039070
+    second: mantener-verde-el-pasto-mabelamber_191
+  - first:
+      213: 4570293309108404993
+    second: mantener-verde-el-pasto-mabelamber_192
+  - first:
+      213: 589565095598696882
+    second: mantener-verde-el-pasto-mabelamber_193
+  - first:
+      213: 2384540688595416301
+    second: mantener-verde-el-pasto-mabelamber_194
+  - first:
+      213: -8669133254042881832
+    second: mantener-verde-el-pasto-mabelamber_195
+  - first:
+      213: -6790951637226623234
+    second: mantener-verde-el-pasto-mabelamber_196
+  - first:
+      213: -2295889592576475154
+    second: mantener-verde-el-pasto-mabelamber_197
+  - first:
+      213: 2851694889426574364
+    second: mantener-verde-el-pasto-mabelamber_198
+  - first:
+      213: 3733428456609061883
+    second: mantener-verde-el-pasto-mabelamber_199
+  - first:
+      213: 5076406240057033453
+    second: mantener-verde-el-pasto-mabelamber_200
+  - first:
+      213: -7525807385983982743
+    second: mantener-verde-el-pasto-mabelamber_201
+  - first:
+      213: 7583374550904972135
+    second: mantener-verde-el-pasto-mabelamber_202
+  - first:
+      213: 4569815399521440868
+    second: mantener-verde-el-pasto-mabelamber_203
+  - first:
+      213: -8707441230369297582
+    second: mantener-verde-el-pasto-mabelamber_204
+  - first:
+      213: -6990282973893782874
+    second: mantener-verde-el-pasto-mabelamber_205
+  - first:
+      213: 3822633114153637144
+    second: mantener-verde-el-pasto-mabelamber_206
+  - first:
+      213: -3975364582422724373
+    second: mantener-verde-el-pasto-mabelamber_207
+  - first:
+      213: -4218070203387461104
+    second: mantener-verde-el-pasto-mabelamber_208
+  - first:
+      213: -7120151795083206854
+    second: mantener-verde-el-pasto-mabelamber_209
+  - first:
+      213: 1525510295668087829
+    second: mantener-verde-el-pasto-mabelamber_210
+  - first:
+      213: -480617104097086993
+    second: mantener-verde-el-pasto-mabelamber_211
+  - first:
+      213: -1823891626181288984
+    second: mantener-verde-el-pasto-mabelamber_212
+  - first:
+      213: 4548103446092605722
+    second: mantener-verde-el-pasto-mabelamber_213
+  - first:
+      213: -4556104451747329887
+    second: mantener-verde-el-pasto-mabelamber_214
+  - first:
+      213: 3986858853350834536
+    second: mantener-verde-el-pasto-mabelamber_215
+  - first:
+      213: 2770242371298506846
+    second: mantener-verde-el-pasto-mabelamber_216
+  - first:
+      213: -2295764241441477521
+    second: mantener-verde-el-pasto-mabelamber_217
+  - first:
+      213: 786374142214478292
+    second: mantener-verde-el-pasto-mabelamber_218
+  - first:
+      213: 4705601647990428740
+    second: mantener-verde-el-pasto-mabelamber_219
+  - first:
+      213: 3664380747811535489
+    second: mantener-verde-el-pasto-mabelamber_220
+  - first:
+      213: 8371149493579086066
+    second: mantener-verde-el-pasto-mabelamber_221
+  - first:
+      213: 1795315676282052626
+    second: mantener-verde-el-pasto-mabelamber_222
+  - first:
+      213: -4959513420561644559
+    second: mantener-verde-el-pasto-mabelamber_223
+  - first:
+      213: 692030398426019588
+    second: mantener-verde-el-pasto-mabelamber_224
+  - first:
+      213: -4706528805838237051
+    second: mantener-verde-el-pasto-mabelamber_225
+  - first:
+      213: -7732004786565700567
+    second: mantener-verde-el-pasto-mabelamber_226
+  - first:
+      213: -5543615665794329855
+    second: mantener-verde-el-pasto-mabelamber_227
+  - first:
+      213: 5456180672448456082
+    second: mantener-verde-el-pasto-mabelamber_228
+  - first:
+      213: 6642439914032798061
+    second: mantener-verde-el-pasto-mabelamber_229
+  - first:
+      213: -8642666061834506142
+    second: mantener-verde-el-pasto-mabelamber_230
+  - first:
+      213: 6658846912959529142
+    second: mantener-verde-el-pasto-mabelamber_231
+  - first:
+      213: 5092884197337075154
+    second: mantener-verde-el-pasto-mabelamber_232
+  - first:
+      213: -1543829368195092546
+    second: mantener-verde-el-pasto-mabelamber_233
+  - first:
+      213: 721214924315952589
+    second: mantener-verde-el-pasto-mabelamber_234
+  - first:
+      213: 816915061491147030
+    second: mantener-verde-el-pasto-mabelamber_235
+  - first:
+      213: -59775519745339952
+    second: mantener-verde-el-pasto-mabelamber_236
+  - first:
+      213: -472800815133167759
+    second: mantener-verde-el-pasto-mabelamber_237
+  - first:
+      213: 1648915199596808921
+    second: mantener-verde-el-pasto-mabelamber_238
+  - first:
+      213: 8094064229506393066
+    second: mantener-verde-el-pasto-mabelamber_239
+  - first:
+      213: 5244822396435052006
+    second: mantener-verde-el-pasto-mabelamber_240
+  - first:
+      213: 5318976068639877542
+    second: mantener-verde-el-pasto-mabelamber_241
+  - first:
+      213: -8335771591019132445
+    second: mantener-verde-el-pasto-mabelamber_242
+  - first:
+      213: 3376864799037194216
+    second: mantener-verde-el-pasto-mabelamber_243
+  - first:
+      213: -5205615249333649064
+    second: mantener-verde-el-pasto-mabelamber_244
+  - first:
+      213: -1601888911296611885
+    second: mantener-verde-el-pasto-mabelamber_245
+  - first:
+      213: 2495831466954388242
+    second: mantener-verde-el-pasto-mabelamber_246
+  - first:
+      213: -3027554445487647204
+    second: mantener-verde-el-pasto-mabelamber_247
+  - first:
+      213: 1786926364830345841
+    second: mantener-verde-el-pasto-mabelamber_248
+  - first:
+      213: -8217587418586004344
+    second: mantener-verde-el-pasto-mabelamber_249
+  - first:
+      213: 3325379370703106213
+    second: mantener-verde-el-pasto-mabelamber_250
+  - first:
+      213: 2770453255317020674
+    second: mantener-verde-el-pasto-mabelamber_251
+  - first:
+      213: -6803238356796888602
+    second: mantener-verde-el-pasto-mabelamber_252
+  - first:
+      213: 4747531174184477496
+    second: mantener-verde-el-pasto-mabelamber_253
+  - first:
+      213: -5250595588276078201
+    second: mantener-verde-el-pasto-mabelamber_254
+  - first:
+      213: -7553840784044684387
+    second: mantener-verde-el-pasto-mabelamber_255
+  - first:
+      213: -3067860589143866981
+    second: mantener-verde-el-pasto-mabelamber_256
+  - first:
+      213: 2376604304546870721
+    second: mantener-verde-el-pasto-mabelamber_257
+  - first:
+      213: -2410620552647866020
+    second: mantener-verde-el-pasto-mabelamber_258
+  - first:
+      213: -2835876369130505361
+    second: mantener-verde-el-pasto-mabelamber_259
+  - first:
+      213: -7485455818096728190
+    second: mantener-verde-el-pasto-mabelamber_260
+  - first:
+      213: -558214173345851075
+    second: mantener-verde-el-pasto-mabelamber_261
+  - first:
+      213: -4028576993169642544
+    second: mantener-verde-el-pasto-mabelamber_262
+  - first:
+      213: -2590451647581847804
+    second: mantener-verde-el-pasto-mabelamber_263
+  - first:
+      213: -6940061796117035481
+    second: mantener-verde-el-pasto-mabelamber_264
+  - first:
+      213: -104552258188805417
+    second: mantener-verde-el-pasto-mabelamber_265
+  - first:
+      213: -3625486677644103002
+    second: mantener-verde-el-pasto-mabelamber_266
+  - first:
+      213: -6696412578919721749
+    second: mantener-verde-el-pasto-mabelamber_267
+  - first:
+      213: 9209319562140253574
+    second: mantener-verde-el-pasto-mabelamber_268
+  - first:
+      213: -5775217840989841115
+    second: mantener-verde-el-pasto-mabelamber_269
+  - first:
+      213: 4317243255718235641
+    second: mantener-verde-el-pasto-mabelamber_270
+  - first:
+      213: 2478591354841956945
+    second: mantener-verde-el-pasto-mabelamber_271
+  - first:
+      213: -553960631742215928
+    second: mantener-verde-el-pasto-mabelamber_272
+  - first:
+      213: 3192116654657455573
+    second: mantener-verde-el-pasto-mabelamber_273
+  - first:
+      213: -4000596741915919128
+    second: mantener-verde-el-pasto-mabelamber_274
+  - first:
+      213: 4453921405222998904
+    second: mantener-verde-el-pasto-mabelamber_275
+  - first:
+      213: -5589164952529647938
+    second: mantener-verde-el-pasto-mabelamber_276
+  - first:
+      213: -5827234962012399427
+    second: mantener-verde-el-pasto-mabelamber_277
+  - first:
+      213: 3313006773379847870
+    second: mantener-verde-el-pasto-mabelamber_278
+  - first:
+      213: -7588343741942180671
+    second: mantener-verde-el-pasto-mabelamber_279
+  - first:
+      213: -9124763347538869961
+    second: mantener-verde-el-pasto-mabelamber_280
+  - first:
+      213: 462446668013562653
+    second: mantener-verde-el-pasto-mabelamber_281
+  - first:
+      213: -4737773967797361269
+    second: mantener-verde-el-pasto-mabelamber_282
+  - first:
+      213: 645051159751300901
+    second: mantener-verde-el-pasto-mabelamber_283
+  - first:
+      213: -409440625955427931
+    second: mantener-verde-el-pasto-mabelamber_284
+  - first:
+      213: -7251874639617175938
+    second: mantener-verde-el-pasto-mabelamber_285
+  - first:
+      213: 6941498665036676820
+    second: mantener-verde-el-pasto-mabelamber_286
+  - first:
+      213: 2621721510803072657
+    second: mantener-verde-el-pasto-mabelamber_287
+  - first:
+      213: -5633399590862661712
+    second: mantener-verde-el-pasto-mabelamber_288
+  - first:
+      213: 611760646863703599
+    second: mantener-verde-el-pasto-mabelamber_289
+  - first:
+      213: 391172371896514921
+    second: mantener-verde-el-pasto-mabelamber_290
+  - first:
+      213: -7082999162539471647
+    second: mantener-verde-el-pasto-mabelamber_291
+  - first:
+      213: 9118024381234389068
+    second: mantener-verde-el-pasto-mabelamber_292
+  - first:
+      213: -5779801721403701628
+    second: mantener-verde-el-pasto-mabelamber_293
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a81900e6494f8200800000000000000
+      internalID: 184446678500710564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ad5a07f2a6b2900800000000000000
+      internalID: 660738522325834334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d8ff50663f4bd0800000000000000
+      internalID: -2643834668688287918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c4ccb80dd7ce5b0800000000000000
+      internalID: -5337753123688788839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862dfa1c747585ce0800000000000000
+      internalID: -1416286117104201112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c63eec0b0ec5c0e0800000000000000
+      internalID: -2250165891944794431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a18c10388934fb0800000000000000
+      internalID: -4664717100587673048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d53f66f3cfed1a0800000000000000
+      internalID: -6782706639533023861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79ee67d52a021d0800000000000000
+      internalID: -3377521198216865881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b3b9b284e273ac0800000000000000
+      internalID: -3875578066824905901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d09c3ba79af8ed0800000000000000
+      internalID: -2409520931152523902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71366086adb9deb0800000000000000
+      internalID: -4694512613740629635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa147903a4bd180800000000000000
+      internalID: -9089589850360664142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff392c092e5cb3660800000000000000
+      internalID: 7366699192376529919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38236b3ba4ddea480800000000000000
+      internalID: -8885921701843029373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a95afdde11f9f80800000000000000
+      internalID: -8097733891631768967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74713dda9c429e980800000000000000
+      internalID: -8509229572316522681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88bfec3da9e90cd0800000000000000
+      internalID: -2591283180314052467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81333f50afda50c10800000000000000
+      internalID: 2019211297298789144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85805c3f1be62c10800000000000000
+      internalID: 2028567201565410703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e8a5a399fab7f40800000000000000
+      internalID: 5727364423775587947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdac434c2dee7ad0800000000000000
+      internalID: -2702461952012276300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8697731d21b9bf5e0800000000000000
+      internalID: -1874734314747889304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f40a7f9f73d6c970800000000000000
+      internalID: 8774933469067871472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f557525f9f4c9c9f0800000000000000
+      internalID: -447610110107880097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d21d42b187788d90800000000000000
+      internalID: -7095289813996334381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9d6b6255198cb0800000000000000
+      internalID: -4861330879035892881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f7af9d205e55ef0800000000000000
+      internalID: -119938014645682334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62c722d5898d36d0800000000000000
+      internalID: -3009097768164146581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848c4545b133d4370800000000000000
+      internalID: 8308353080040409160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3362e571a161940800000000000000
+      internalID: 5266425501922505660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05a4097f685c3e00800000000000000
+      internalID: 1025792050928592138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768cbc601be92da00800000000000000
+      internalID: 779860168648935527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1338e88df9be70960800000000000000
+      internalID: 7568276770584953649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456c02172957ee930800000000000000
+      internalID: 4174403176442676820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53768aae8d8e4c570800000000000000
+      internalID: 8486163616220342069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2923f7b07a1d9220800000000000000
+      internalID: 2494178840057948458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3f8927905d57f70800000000000000
+      internalID: 9184481251646043133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619f4df54a14bbf70800000000000000
+      internalID: 9204022437699975446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd28eed48555a8e20800000000000000
+      internalID: 3353586710283715295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8724f02ba783d0800000000000000
+      internalID: -3204404451827283144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9bf2a23aa4ac210800000000000000
+      internalID: 1353976702626150841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239360784f2b98a10800000000000000
+      internalID: 1912256280102582578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb16d77e04ca6660800000000000000
+      internalID: 7379926505819085799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca886315feb0dc5c0800000000000000
+      internalID: -4193682555524446036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84e7f48a938db750800000000000000
+      internalID: 6322354151577085069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad175eefec4c86c0800000000000000
+      internalID: -4139849364080747091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c7963d73687d500800000000000000
+      internalID: 420952664510659742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce04ec0e4bccbfc0800000000000000
+      internalID: -3477681276152705341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444a69cc8db54bb0800000000000000
+      internalID: -4952343802851736502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6c8af428d4e0f0800000000000000
+      internalID: -1088507556582887649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b707719ad2e44e760800000000000000
+      internalID: 7486194438613987451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12f457d4fe5ea230800000000000000
+      internalID: 3651960753521750559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afc3e296c36edc90800000000000000
+      internalID: -7143162254443950170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf79cf6de65d26ee0800000000000000
+      internalID: -1269217472935061509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff7bf2ce9fba4550800000000000000
+      internalID: 6145935330097463293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa58e7025bd6c680800000000000000
+      internalID: -8735053281872028935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d70090eb3ffb9030800000000000000
+      internalID: 3502673767846381521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb50d73b656f9f90800000000000000
+      internalID: -6944720589209707590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a6e2b16dcaf1e00800000000000000
+      internalID: 1017722076388026924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e30d64f1fc38790800000000000000
+      internalID: -7528946418794348945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_61
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaefa6a24fb369750800000000000000
+      internalID: 6311297847676042926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a727975ee68b4140800000000000000
+      internalID: 4705002593948477346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3695d0d2e1cf6720800000000000000
+      internalID: 2841703069804500540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977384fe6a20481a0800000000000000
+      internalID: -6808313820675033223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99cb5430e068c540800000000000000
+      internalID: 5028375500026530204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b439c69e8dc64e1c0800000000000000
+      internalID: -4475332450814487733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690ef350b5c7f2bf0800000000000000
+      internalID: -346921915912298346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267d41810721e9620800000000000000
+      internalID: 2782681892411201378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb85fc5f38696c00800000000000000
+      internalID: 894360622361578466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153d7cc3a0ae844a0800000000000000
+      internalID: -6608775123475901615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd6b4a289896510800000000000000
+      internalID: 1542915541553307433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123b9a46b5e3379c0800000000000000
+      internalID: -3930729487512521951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573cd859cda60f00800000000000000
+      internalID: 1082743840720041818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_74
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f6727e924f5580800000000000000
+      internalID: -8836270695584958755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6d65f7e724fc8f0800000000000000
+      internalID: -518122321054607673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_76
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec63db1caade98200800000000000000
+      internalID: 182938577535841998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4edcdaef72e1a90800000000000000
+      internalID: -7341386367776201517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3715d6b3e6e8d6e90800000000000000
+      internalID: -7030806839160909453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f98b7e195170e360800000000000000
+      internalID: 7196876832115493362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_80
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ca3d548803ae90800000000000000
+      internalID: -7015754429920264086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf6f809c7f60c730800000000000000
+      internalID: 4017333448406429622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_82
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53883d420c928d6f0800000000000000
+      internalID: -659731440181475275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08251840e4705490800000000000000
+      internalID: -7759573651328522228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b892555e2e0f710800000000000000
+      internalID: 1725128131887074141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9d355426d11b7a0800000000000000
+      internalID: -6363272490590676514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbec152337f98aa0800000000000000
+      internalID: -6158119216414397448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc321d1c51591e0800000000000000
+      internalID: -2191821721464222273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6c30fca6659f260800000000000000
+      internalID: 7131826501657544352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e562a55f5f291d30800000000000000
+      internalID: 4402602197236475365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a9868bc7c5718c0800000000000000
+      internalID: -4028649650920056310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0752594762bb200800000000000000
+      internalID: 196793290881069251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5856e8ff59ae9efa0800000000000000
+      internalID: -5770823517540031099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2d667d66d58dd0800000000000000
+      internalID: -2484343853798314323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3059ba48fa28a2c30800000000000000
+      internalID: 4335421281654248707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007f1675879712540800000000000000
+      internalID: 4981396220617553664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5952eb4be5829d9c0800000000000000
+      internalID: -3902043214915426923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467bcc3ce898ac70800000000000000
+      internalID: 8982597597190125127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_98
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cb8d1a81d357dc0800000000000000
+      internalID: -3641937547655332824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ec28274903eabc0800000000000000
+      internalID: -3770022423928058325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7623da81b0bba70c0800000000000000
+      internalID: -4577140414935649689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_101
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cb3b7728b844170800000000000000
+      internalID: 8161801817172458501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ba7c3d2228fe10800000000000000
+      internalID: 2231571193045627189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_103
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7395e08897171d0800000000000000
+      internalID: -3354766622151067736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_104
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a403a79fae7e4e2d0800000000000000
+      internalID: -3250218034660757430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca7b83eb604bc290800000000000000
+      internalID: -7869125091776562487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7438cf262ee29c30800000000000000
+      internalID: 4364812836653249659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e85e11c873bab80800000000000000
+      internalID: -8382545206684840297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844850dc09bec8b70800000000000000
+      internalID: 8902749570552136776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4f556ad2a5cdfb0800000000000000
+      internalID: -4621719965478292291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbde48a43f242560800000000000000
+      internalID: 7288002000200850381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74439071eb4de920800000000000000
+      internalID: 3021154356663895164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389823c820b0a08e0800000000000000
+      internalID: -1726555401573201533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e026a2a46658f0800000000000000
+      internalID: -552143254571652717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90141d561385164b0800000000000000
+      internalID: -5448977104956735223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65955d3ff5e87fff0800000000000000
+      internalID: -2376732026513066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_116
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870775bd1c0dfc220800000000000000
+      internalID: 2508453048495861880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05412b9fc610f0f80800000000000000
+      internalID: -8138284434077903792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_118
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea424172f0e6480800000000000000
+      internalID: -8904162752748802359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b7d4e60df9d5ed0800000000000000
+      internalID: -2423605306902873222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_120
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf500d2d05d3cbf0800000000000000
+      internalID: -305166097164771384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a346c284d9b3980800000000000000
+      internalID: -8558073733579523550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_122
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf30c542ac13eb0800000000000000
+      internalID: -4741786675133023122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_123
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580a4c012fcfa0860800000000000000
+      internalID: 7497082646305218693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_124
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09da58eba39dc5ba0800000000000000
+      internalID: -6098760949038731888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c606798665f1ba60800000000000000
+      internalID: 7688195859639830212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c4b1d5b3bd03d0800000000000000
+      internalID: -3238734963520780023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317292b17effc9db0800000000000000
+      internalID: -4783667336116099309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07c1236f5859cd0800000000000000
+      internalID: -2551986321386344237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20470b89107fd8c70800000000000000
+      internalID: 8975101218647995394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b08850b529c0eb0800000000000000
+      internalID: -4752262587150234841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1632d0690ab380580800000000000000
+      internalID: -8860766705953201311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb5086b868d6c4e0800000000000000
+      internalID: -1961642643423208525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e9c759ae76c7770800000000000000
+      internalID: 8609870844853526085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72efd6aaab4e51200800000000000000
+      internalID: 150277652961164839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730ec1595d0b53da0800000000000000
+      internalID: -5965667700006133705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263c5438f43cc9da0800000000000000
+      internalID: -5936655462508936350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e24cb751ac3170800000000000000
+      internalID: 8159574023081224599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feae2c077426b220800000000000000
+      internalID: 2501226736774983417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff5220597343f2f0800000000000000
+      internalID: -940333708875767823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e484d3047cd72a80800000000000000
+      internalID: -8491576181545204503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_141
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae61131cf8311760800000000000000
+      internalID: 7426779915813482150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_142
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080f2ce1404b4e9d0800000000000000
+      internalID: -2745871943000199040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_143
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf813e399e42a3aa0800000000000000
+      internalID: -6180586952985470725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_144
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b062b90166a57a520800000000000000
+      internalID: 2713236694925780491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_145
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe93851e4b51950800000000000000
+      internalID: 6419235723827342315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_146
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db423049484003a0800000000000000
+      internalID: -6701276766080447529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8305818a9e29f0800000000000000
+      internalID: -491285428263744332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be17ebf20fa469fb0800000000000000
+      internalID: -4641439970505100821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa4cd7e5f9dc4b80800000000000000
+      internalID: -8409106754027369814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08579f5a1db4cea70800000000000000
+      internalID: 8857537930935760256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1248e6c01916180800000000000000
+      internalID: -9123851887496126016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74c92ff7ecf4a9b0800000000000000
+      internalID: -5069649207163763586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2b819da55414820800000000000000
+      internalID: 2900675891494957737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac9a2a9cdb793600800000000000000
+      internalID: 448525825309580451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_155
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7db67fcb8052b30800000000000000
+      internalID: 4261822230073956286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d22aa5c828c8ef10800000000000000
+      internalID: 2299307687213146841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_157
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9507995cf6d383200800000000000000
+      internalID: 159945337037484121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_158
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de85e9cd4d84126a0800000000000000
+      internalID: -6475814710110430995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6922be1ef0fe6240800000000000000
+      internalID: 4787028428168767851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_160
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c1a388370c82090800000000000000
+      internalID: -8058979930740220880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_161
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d546fd554ddf8c50800000000000000
+      internalID: 6669792863157896663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefd8e5df2eed0dc0800000000000000
+      internalID: -3671016232017403921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_163
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d2ace4a737f90c0800000000000000
+      internalID: -4566804527985316493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_164
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed405fc3f943edfc0800000000000000
+      internalID: -3468276804501568290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_165
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9067cb1281230260800000000000000
+      internalID: 7062525483342586010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_166
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488ffa97ad77c4fb0800000000000000
+      internalID: -4662219734007154556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_167
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222a332194a63fbe0800000000000000
+      internalID: -1444694193385266654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a493ea9f3fd2a2ba0800000000000000
+      internalID: -6113023018312779446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4628c0ef515a36d0800000000000000
+      internalID: -3010003928708798902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd90e6b5a0a9430800000000000000
+      internalID: 3790353424190135543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d32e045f75e6260800000000000000
+      internalID: 7092703174022282501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d9ccd396b365c0800000000000000
+      internalID: -4223331279362730560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01947a56b3e2676c0800000000000000
+      internalID: -4146075574304552688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0466be5c79482340800000000000000
+      internalID: 4839198598123381775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938f689505c475760800000000000000
+      internalID: 7446504416863516729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d929dcedba063a0800000000000000
+      internalID: -6674145674343047927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f879616b0eb3adf60800000000000000
+      internalID: 8059820319446570895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e785c206c7b24260800000000000000
+      internalID: 7080423625257748452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04cfd65b16b17220800000000000000
+      internalID: 2481965098195731470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16874a0e76e0b7f0800000000000000
+      internalID: -598725321427548644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_181
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e854eda6d65b0df0800000000000000
+      internalID: -212981077329553180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_182
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c130228e79ae60800000000000000
+      internalID: 7974043712587155961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_183
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376188b61778c2080800000000000000
+      internalID: -9210838216674371981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde3b9d2297c67460800000000000000
+      internalID: 7239192881688952541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_185
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9892a249b7e9e5ab0800000000000000
+      internalID: -5017398681240196727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_186
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8997727d91fdcb550800000000000000
+      internalID: 6178058090922342808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_187
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8db5e58c93ce520800000000000000
+      internalID: 2732622606646368419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_188
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b5b7a0abedd4c0800000000000000
+      internalID: -4260990597181622083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53efc4e702b84590800000000000000
+      internalID: -7689700616761777315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd5fd2ae42fbae70800000000000000
+      internalID: 9127655489350360511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_191
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51c0f39a33655900800000000000000
+      internalID: 672552822603039070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10340c8dc81fc6f30800000000000000
+      internalID: 4570293309108404993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9212fa45e8e2800800000000000000
+      internalID: 589565095598696882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_194
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f1385f17971120800000000000000
+      internalID: 2384540688595416301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d07f3a8c3d01b780800000000000000
+      internalID: -8669133254042881832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeef384771b1c1a0800000000000000
+      internalID: -6790951637226623234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_197
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef76f6649c5320e0800000000000000
+      internalID: -2295889592576475154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c511c9461439720800000000000000
+      internalID: 2851694889426574364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_199
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb9486966dcfc330800000000000000
+      internalID: 3733428456609061883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_200
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de20d225494037640800000000000000
+      internalID: 5076406240057033453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_201
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963e96e4e06fe8790800000000000000
+      internalID: -7525807385983982743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_202
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763ad61c9fe8d3960800000000000000
+      internalID: 7583374550904972135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_203
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464d599d4ee3b6f30800000000000000
+      internalID: 4569815399521440868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_204
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b6f31c554f82780800000000000000
+      internalID: -8707441230369297582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_205
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2999ddba68dfe90800000000000000
+      internalID: -6990282973893782874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_206
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815d5cb6098bc0530800000000000000
+      internalID: 3822633114153637144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_207
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0460489faa4d8c0800000000000000
+      internalID: -3975364582422724373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_208
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0124e619f776675c0800000000000000
+      internalID: -4218070203387461104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_209
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f9433aaa3203d90800000000000000
+      internalID: -7120151795083206854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c5f7a0883bb2510800000000000000
+      internalID: 1525510295668087829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1f05d4a418459f0800000000000000
+      internalID: -480617104097086993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb97a8ba3c30b6e0800000000000000
+      internalID: -1823891626181288984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196412ccfb1e1f30800000000000000
+      internalID: 4548103446092605722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_214
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a84602f32775c0c0800000000000000
+      internalID: -4556104451747329887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861099bf00b245730800000000000000
+      internalID: 3986858853350834536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58bbf262c0e17620800000000000000
+      internalID: 2770242371298506846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_217
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c26dcf59ec320e0800000000000000
+      internalID: -2295764241441477521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d91f3fad13c9ea00800000000000000
+      internalID: 786374142214478292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_219
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44456fa74c7ad4140800000000000000
+      internalID: 4705601647990428740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_220
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a361b10ee7ad230800000000000000
+      internalID: 3664380747811535489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_221
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8f876bc1c4c2470800000000000000
+      internalID: 8371149493579086066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_222
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106b78781e3ae810800000000000000
+      internalID: 1795315676282052626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_223
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f304a412d44c2bb0800000000000000
+      internalID: -4959513420561644559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_224
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40774f71bf59a9900800000000000000
+      internalID: 692030398426019588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_225
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5825ed2ccfc0faeb0800000000000000
+      internalID: -4706528805838237051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_226
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924a12fcc9662b490800000000000000
+      internalID: -7732004786565700567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_227
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103d90d5cee1113b0800000000000000
+      internalID: -5543615665794329855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_228
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29564abd96f38bb40800000000000000
+      internalID: 5456180672448456082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_229
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d691dcd98efae2c50800000000000000
+      internalID: 6642439914032798061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_230
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260b700f1051f0880800000000000000
+      internalID: -8642666061834506142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0c8acbcf9f86c50800000000000000
+      internalID: 6658846912959529142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_232
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd0a78b13f8da640800000000000000
+      internalID: 5092884197337075154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_233
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf6ae28e57339ae0800000000000000
+      internalID: -1543829368195092546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_234
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5009a0725420a00800000000000000
+      internalID: 721214924315952589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_235
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611a8d39be3465b00800000000000000
+      internalID: 816915061491147030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_236
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd80534b72ab2ff0800000000000000
+      internalID: -59775519745339952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_237
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fe874e9264079f0800000000000000
+      internalID: -472800815133167759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_238
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dac5b043af12e610800000000000000
+      internalID: 1648915199596808921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_239
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3ace45884e35070800000000000000
+      internalID: 8094064229506393066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_240
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e536896e2a59c840800000000000000
+      internalID: 5244822396435052006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_241
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a96514ad8cc0d940800000000000000
+      internalID: 5318976068639877542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_242
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9038c17e3615c80800000000000000
+      internalID: -8335771591019132445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_243
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff121b4a80dde20800000000000000
+      internalID: 3376864799037194216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_244
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8518c12e280f1c7b0800000000000000
+      internalID: -5205615249333649064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_245
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d93788b582f4c9e0800000000000000
+      internalID: -1601888911296611885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_246
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fe07ee79f2a220800000000000000
+      internalID: 2495831466954388242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_247
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16dd82c547fbf5d0800000000000000
+      internalID: -3027554445487647204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_248
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2e7faf007cc810800000000000000
+      internalID: 1786926364830345841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_249
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884467c08c345fd80800000000000000
+      internalID: -8217587418586004344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_250
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0bb264bee162e20800000000000000
+      internalID: 3325379370703106213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_251
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200eef5ae80a27620800000000000000
+      internalID: 2770453255317020674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e92fc472ca0691a0800000000000000
+      internalID: -6803238356796888602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_253
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833eb5d037e92e140800000000000000
+      internalID: 4747531174184477496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_254
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789329d91232227b0800000000000000
+      internalID: -5250595588276078201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_255
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b882134dd5b2790800000000000000
+      internalID: -7553840784044684387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_256
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91c8a36c05cc65d0800000000000000
+      internalID: -3067860589143866981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_257
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c53e20f5056bf020800000000000000
+      internalID: 2376604304546870721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_258
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590b2f1161cb8ed0800000000000000
+      internalID: -2410620552647866020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_259
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b3d07a771f4a8d0800000000000000
+      internalID: -2835876369130505361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_260
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a674d7915e1890800000000000000
+      internalID: -7485455818096728190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_261
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39d129ba23d048f0800000000000000
+      internalID: -558214173345851075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_262
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbefcba19e9718c0800000000000000
+      internalID: -4028576993169642544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_263
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ffe0a83fddc0cd0800000000000000
+      internalID: -2590451647581847804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_264
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7264f230192ffaf90800000000000000
+      internalID: -6940061796117035481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_265
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daf03e664e8c8ef0800000000000000
+      internalID: -104552258188805417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_266
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2bc19431fafadc0800000000000000
+      internalID: -3625486677644103002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_267
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be458041d309113a0800000000000000
+      internalID: -6696412578919721749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_268
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dfc6449531ecf70800000000000000
+      internalID: 9209319562140253574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_269
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295d47d8fd4adfa0800000000000000
+      internalID: -5775217840989841115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_270
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd490a0edde9eb30800000000000000
+      internalID: 4317243255718235641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_271
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15285b084b9b56220800000000000000
+      internalID: 2478591354841956945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_272
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809447d8dbfef48f0800000000000000
+      internalID: -553960631742215928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_273
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d547725f2dac4c20800000000000000
+      internalID: 3192116654657455573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_274
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec348495760b78c0800000000000000
+      internalID: -4000596741915919128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_275
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87353df8be18fcd30800000000000000
+      internalID: 4453921405222998904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_276
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6486d961c4f62b0800000000000000
+      internalID: -5589164952529647938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_277
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db893821da0812fa0800000000000000
+      internalID: -5827234962012399427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_278
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d4c97b1a2afd20800000000000000
+      internalID: 3313006773379847870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_279
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c45afb4299c0b690800000000000000
+      internalID: -7588343741942180671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_280
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731017a94145e5180800000000000000
+      internalID: -9124763347538869961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_281
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1be28e5bc0fa6600800000000000000
+      internalID: 462446668013562653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_282
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8568579dab004eb0800000000000000
+      internalID: -4737773967797361269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_283
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5271ee6bc9ea3f800800000000000000
+      internalID: 645051159751300901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_284
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a920558bef515af0800000000000000
+      internalID: -409440625955427931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_285
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e44f5ff6a2c5b90800000000000000
+      internalID: -7251874639617175938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_286
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4defb5a1248255060800000000000000
+      internalID: 6941498665036676820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_287
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196ea67d2d9326420800000000000000
+      internalID: 2621721510803072657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_288
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7dccc4be422d1b0800000000000000
+      internalID: -5633399590862661712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_289
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ecfdb21196d7800800000000000000
+      internalID: 611760646863703599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_290
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969b6d02339bd6500800000000000000
+      internalID: 391172371896514921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_291
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec027cf9c124bd90800000000000000
+      internalID: -7082999162539471647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_292
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40a3d88ddab98e70800000000000000
+      internalID: 9118024381234389068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantener-verde-el-pasto-mabelamber_293
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4868a8305f40acfa0800000000000000
+      internalID: -5779801721403701628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
