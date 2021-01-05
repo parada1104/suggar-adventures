@@ -65,8 +65,8 @@ public class GuardiaManager : MonoBehaviour
         float axis = target.x - actualPosition.x;
         //dejar el axis entre 1 y -1
         horizontalMovement = -axis * fixedSpeed;
-        Debug.Log(actualPosition.x);
-        Debug.Log(initialPosition.x);
+        //Debug.Log(actualPosition.x);
+        //Debug.Log(initialPosition.x);
 
         
         transform.position = Vector3.MoveTowards(transform.position, target, fixedSpeed);

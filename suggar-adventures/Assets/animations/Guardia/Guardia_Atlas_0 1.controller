@@ -186,6 +186,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: isInRange
     m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: isAtInitialPosition
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -5584837848069748319}
   m_Solo: 0
