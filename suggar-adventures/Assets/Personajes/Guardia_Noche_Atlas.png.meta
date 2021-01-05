@@ -1,0 +1,1258 @@
+fileFormatVersion: 2
+guid: f75b9e3b35eb8e14083883d8f65d1f52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8965648237241611249
+    second: Guardia_Noche_Atlas_0
+  - first:
+      213: 8402357765944072662
+    second: Guardia_Noche_Atlas_1
+  - first:
+      213: 8137672129750168902
+    second: Guardia_Noche_Atlas_2
+  - first:
+      213: 3498116919746324954
+    second: Guardia_Noche_Atlas_3
+  - first:
+      213: -6777534463159846972
+    second: Guardia_Noche_Atlas_4
+  - first:
+      213: -8106968091834386565
+    second: Guardia_Noche_Atlas_5
+  - first:
+      213: 6810851215944873397
+    second: Guardia_Noche_Atlas_6
+  - first:
+      213: -6738944757090686329
+    second: Guardia_Noche_Atlas_7
+  - first:
+      213: 6115567219481676313
+    second: Guardia_Noche_Atlas_8
+  - first:
+      213: 4107935975409862607
+    second: Guardia_Noche_Atlas_9
+  - first:
+      213: -1786730096163856777
+    second: Guardia_Noche_Atlas_10
+  - first:
+      213: -771501140401615452
+    second: Guardia_Noche_Atlas_11
+  - first:
+      213: 2819508525539252474
+    second: Guardia_Noche_Atlas_12
+  - first:
+      213: 1293347948436391301
+    second: Guardia_Noche_Atlas_13
+  - first:
+      213: -1678835601991063410
+    second: Guardia_Noche_Atlas_14
+  - first:
+      213: -7017407254902261723
+    second: Guardia_Noche_Atlas_15
+  - first:
+      213: -3721639013667100725
+    second: Guardia_Noche_Atlas_16
+  - first:
+      213: -226788801171023536
+    second: Guardia_Noche_Atlas_17
+  - first:
+      213: 9079045953061151782
+    second: Guardia_Noche_Atlas_18
+  - first:
+      213: 8348257573614035307
+    second: Guardia_Noche_Atlas_19
+  - first:
+      213: -4681856719358531501
+    second: Guardia_Noche_Atlas_20
+  - first:
+      213: -6865213717725725862
+    second: Guardia_Noche_Atlas_21
+  - first:
+      213: -5113947900201370871
+    second: Guardia_Noche_Atlas_22
+  - first:
+      213: -6542652502899741071
+    second: Guardia_Noche_Atlas_23
+  - first:
+      213: -5464833714384890953
+    second: Guardia_Noche_Atlas_24
+  - first:
+      213: -9088686122329563498
+    second: Guardia_Noche_Atlas_25
+  - first:
+      213: 678558799003546073
+    second: Guardia_Noche_Atlas_26
+  - first:
+      213: -3067526055458052362
+    second: Guardia_Noche_Atlas_27
+  - first:
+      213: 3359865483047057288
+    second: Guardia_Noche_Atlas_28
+  - first:
+      213: -7508351827194533039
+    second: Guardia_Noche_Atlas_29
+  - first:
+      213: 8430678409903754060
+    second: Guardia_Noche_Atlas_30
+  - first:
+      213: -8298900138674150626
+    second: Guardia_Noche_Atlas_31
+  - first:
+      213: 3934889461107622240
+    second: Guardia_Noche_Atlas_32
+  - first:
+      213: -2362414139537020191
+    second: Guardia_Noche_Atlas_33
+  - first:
+      213: -1627463441229120867
+    second: Guardia_Noche_Atlas_34
+  - first:
+      213: 941836128772388705
+    second: Guardia_Noche_Atlas_35
+  - first:
+      213: -1445861909169932995
+    second: Guardia_Noche_Atlas_36
+  - first:
+      213: -425292897403922400
+    second: Guardia_Noche_Atlas_37
+  - first:
+      213: 24225001484451384
+    second: Guardia_Noche_Atlas_38
+  - first:
+      213: -7243372110890693972
+    second: Guardia_Noche_Atlas_39
+  - first:
+      213: -1283500227948215177
+    second: Guardia_Noche_Atlas_40
+  - first:
+      213: 5000128002161112932
+    second: Guardia_Noche_Atlas_41
+  - first:
+      213: 5166057186889670828
+    second: Guardia_Noche_Atlas_42
+  - first:
+      213: -7477929214039264951
+    second: Guardia_Noche_Atlas_43
+  - first:
+      213: 2632664642597718607
+    second: Guardia_Noche_Atlas_44
+  - first:
+      213: -8613631262058940198
+    second: Guardia_Noche_Atlas_45
+  - first:
+      213: 1635241542872776464
+    second: Guardia_Noche_Atlas_46
+  - first:
+      213: 518224786509589952
+    second: Guardia_Noche_Atlas_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 152
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1701
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3b4e9d1916c6c70800000000000000
+      internalID: 8965648237241611249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1701
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d957dadedb2b9470800000000000000
+      internalID: 8402357765944072662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1701
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645fa50dfa1dee070800000000000000
+      internalID: 8137672129750168902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1701
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad963400ececb8030800000000000000
+      internalID: 3498116919746324954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1549
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7b36e805c51f1a0800000000000000
+      internalID: -6777534463159846972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1549
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77f8c819734e7f80800000000000000
+      internalID: -8106968091834386565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1549
+        width: 106
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b57e607811058e50800000000000000
+      internalID: 6810851215944873397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1549
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae0a8a2757a72a0800000000000000
+      internalID: -6738944757090686329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1397
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a8a350cfbded450800000000000000
+      internalID: 6115567219481676313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1397
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc74a5e3102520930800000000000000
+      internalID: 4107935975409862607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1397
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e57aca1724437e0800000000000000
+      internalID: -1786730096163856777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1397
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad8d86ecc31b45f0800000000000000
+      internalID: -771501140401615452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1244
+        width: 117
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8d3f9c018e02720800000000000000
+      internalID: 2819508525539252474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1245
+        width: 118
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585088d4b15e2f110800000000000000
+      internalID: 1293347948436391301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1245
+        width: 122
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e882b033ae393b8e0800000000000000
+      internalID: -1678835601991063410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1245
+        width: 115
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5283d4f08492d9e90800000000000000
+      internalID: -7017407254902261723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1093
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7232009051a5cc0800000000000000
+      internalID: -3721639013667100725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1093
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591a2379c84adcf0800000000000000
+      internalID: -226788801171023536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1093
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62468a301304ffd70800000000000000
+      internalID: 9079045953061151782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1093
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61aab04808fad370800000000000000
+      internalID: 8348257573614035307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 940
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358eb598e14b60fb0800000000000000
+      internalID: -4681856719358531501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 940
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bb1d74f7cd9b0a0800000000000000
+      internalID: -6865213717725725862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 940
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b74a8ca7b9709b0800000000000000
+      internalID: -5113947900201370871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 940
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e27db8634d335a0800000000000000
+      internalID: -6542652502899741071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 788
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b39281d0b20924b0800000000000000
+      internalID: -5464833714384890953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 788
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e168b20208ed180800000000000000
+      internalID: -9088686122329563498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 788
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d172dde1a9ba6900800000000000000
+      internalID: 678558799003546073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 788
+        width: 114
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6ea251e45fd65d0800000000000000
+      internalID: -3067526055458052362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 637
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887bd120bd3a0ae20800000000000000
+      internalID: 3359865483047057288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 637
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b2a6b4bc9fcc790800000000000000
+      internalID: -7508351827194533039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 637
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b4edd9859cff470800000000000000
+      internalID: 8430678409903754060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 637
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1323e71b4264dc80800000000000000
+      internalID: -8298900138674150626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 485
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0618fbfed198b9630800000000000000
+      internalID: 3934889461107622240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 485
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea29805bd4073fd0800000000000000
+      internalID: -2362414139537020191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 485
+        width: 115
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a7a947f961a69e0800000000000000
+      internalID: -1627463441229120867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 485
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1677b1418f2121d00800000000000000
+      internalID: 941836128772388705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 333
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3578ad01444febe0800000000000000
+      internalID: -1445861909169932995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 333
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0281eb4fc5e091af0800000000000000
+      internalID: -425292897403922400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 333
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef920b280165000800000000000000
+      internalID: 24225001484451384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 333
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa8362317f5a7b90800000000000000
+      internalID: -7243372110890693972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 181
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774830cc757103ee0800000000000000
+      internalID: -1283500227948215177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 181
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467fb481de5046540800000000000000
+      internalID: 5000128002161112932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 181
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a9e9f3a581b740800000000000000
+      internalID: 5166057186889670828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 181
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9417ca5effe093890800000000000000
+      internalID: -7477929214039264951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 29
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a84c24b8a198420800000000000000
+      internalID: 2632664642597718607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 29
+        width: 128
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f6ce010c367880800000000000000
+      internalID: -8613631262058940198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 29
+        width: 128
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fb4e4f48b81b610800000000000000
+      internalID: 1635241542872776464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardia_Noche_Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 26
+        width: 128
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cde4b992ba113700800000000000000
+      internalID: 518224786509589952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

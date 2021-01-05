@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02faf6fd-f012-46a6-8573-09eab3141b7b" name="Default Changelist" comment="" />
+    <list default="true" id="02faf6fd-f012-46a6-8573-09eab3141b7b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Personajes/PreFab/guardia 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Personajes/PreFab/guardia 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/America/Seatle.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/America/Seatle.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +17,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -71,6 +77,7 @@
       <workItem from="1608694767731" duration="4898000" />
       <workItem from="1608736603881" duration="4758000" />
       <workItem from="1609197778657" duration="5499000" />
+      <workItem from="1609875335898" duration="1487000" />
     </task>
     <servers />
   </component>
