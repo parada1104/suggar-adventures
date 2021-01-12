@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02faf6fd-f012-46a6-8573-09eab3141b7b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Personajes/PreFab/guardia 1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Personajes/PreFab/guardia 1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/America/Seatle.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/America/Seatle.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +74,7 @@
       <workItem from="1608736603881" duration="4758000" />
       <workItem from="1609197778657" duration="5499000" />
       <workItem from="1609875335898" duration="1637000" />
+      <workItem from="1610485730219" duration="1146000" />
     </task>
     <servers />
   </component>
