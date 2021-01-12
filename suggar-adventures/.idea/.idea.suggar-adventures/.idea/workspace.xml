@@ -15,8 +15,11 @@
       <change afterPath="$PROJECT_DIR$/Assets/Sprites/fuegos-Laroya_1282981817_89017024_1755x1024.jpg.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/America/Machu Picchu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/America/Machu Picchu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+=======
+>>>>>>> f0a5098d0259e5c0fa2942e4b2c971978537daaf
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,9 +96,13 @@
       <workItem from="1608736603881" duration="4758000" />
       <workItem from="1609197778657" duration="5499000" />
       <workItem from="1609875335898" duration="1637000" />
+<<<<<<< HEAD
       <workItem from="1610489962423" duration="118000" />
       <workItem from="1610490145739" duration="509000" />
       <workItem from="1610490966649" duration="2367000" />
+=======
+      <workItem from="1610485730219" duration="1146000" />
+>>>>>>> f0a5098d0259e5c0fa2942e4b2c971978537daaf
     </task>
     <servers />
   </component>
