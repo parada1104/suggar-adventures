@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: d80e8fbd3ce35b14bb30d1f2d131beab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8611580053704087039
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_0"
+  - first:
+      213: 3696187269318519836
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_1"
+  - first:
+      213: -6398773694433664463
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_2"
+  - first:
+      213: -557744479565794915
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_3"
+  - first:
+      213: -9202133311576679076
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_4"
+  - first:
+      213: 4363950901093685934
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_5"
+  - first:
+      213: -4064310706264469189
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_6"
+  - first:
+      213: 4999479941065285409
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_7"
+  - first:
+      213: -1404050177626803729
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_8"
+  - first:
+      213: -2527937796781391290
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_9"
+  - first:
+      213: 8459149984497887427
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_10"
+  - first:
+      213: -2229543375714425410
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_11"
+  - first:
+      213: -7795171232268000445
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_12"
+  - first:
+      213: 6250248404716589667
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_13"
+  - first:
+      213: 4443898072386572107
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_14"
+  - first:
+      213: 2157996542325634443
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_15"
+  - first:
+      213: 2429273834466125495
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_16"
+  - first:
+      213: 1184533089554446834
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_17"
+  - first:
+      213: -2070074533430124878
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_18"
+  - first:
+      213: 1780575227537430827
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_19"
+  - first:
+      213: 1191158706451968854
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_20"
+  - first:
+      213: -78917734014475756
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_21"
+  - first:
+      213: -3637002113117692732
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_22"
+  - first:
+      213: 2300748443820442689
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_23"
+  - first:
+      213: -6317157968199173018
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_24"
+  - first:
+      213: -3611250256630273139
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_25"
+  - first:
+      213: 8718425691984988410
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_26"
+  - first:
+      213: -1666114713615112193
+    second: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_27"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae02831958d7880800000000000000
+      internalID: -8611580053704087039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_1"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c2d0bfcbe7b4330800000000000000
+      internalID: 3696187269318519836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_2"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ea212a3df237a0800000000000000
+      internalID: -6398773694433664463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_3"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91bb04d95e7248f0800000000000000
+      internalID: -557744479565794915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_4"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ddea312847b4080800000000000000
+      internalID: -9202133311576679076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_5"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5fec293edf8c30800000000000000
+      internalID: 4363950901093685934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_6"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b311a4042faa897c0800000000000000
+      internalID: -4064310706264469189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_7"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f13ec9488b16540800000000000000
+      internalID: 4999479941065285409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_8"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1fabb6dcfc38ce0800000000000000
+      internalID: -1404050177626803729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_9"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642cf88a7f5faecd0800000000000000
+      internalID: -2527937796781391290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_10"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c86fb7a710f46570800000000000000
+      internalID: 8459149984497887427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_11"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb56737cc121f01e0800000000000000
+      internalID: -2229543375714425410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_12"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3436259901df1d390800000000000000
+      internalID: -7795171232268000445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_13"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36295111fc75db650800000000000000
+      internalID: 6250248404716589667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f05a680c5ebad30800000000000000
+      internalID: 4443898072386572107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_15"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8537d3fb6eb2fd10800000000000000
+      internalID: 2157996542325634443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_16"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6218d7ea386b120800000000000000
+      internalID: 2429273834466125495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_17"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b69ba19e407010800000000000000
+      internalID: 1184533089554446834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_18"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be9058fd2e9543e0800000000000000
+      internalID: -2070074533430124878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_19"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299a3d4cbfd5b810800000000000000
+      internalID: 1780575227537430827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_20"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653fe215888d78010800000000000000
+      internalID: 1191158706451968854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412a6913db0a7eef0800000000000000
+      internalID: -78917734014475756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_22"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc564809d5c68dc0800000000000000
+      internalID: -3637002113117692732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_23"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144437f0586edef10800000000000000
+      internalID: 2300748443820442689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_24"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cb5733c42f458a0800000000000000
+      internalID: -6317157968199173018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_25"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba38a560342edc0800000000000000
+      internalID: -3611250256630273139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_26"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8876389f11ef870800000000000000
+      internalID: 8718425691984988410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "85005682-textura-incons\xFAtil-del-bloque-de-piedra-el-camino-a-los-peatones-_27"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 44
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff76be3de75c0e8e0800000000000000
+      internalID: -1666114713615112193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

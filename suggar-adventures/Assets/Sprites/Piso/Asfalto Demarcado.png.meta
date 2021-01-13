@@ -1,0 +1,1930 @@
+fileFormatVersion: 2
+guid: aa2c0cbcb219ea848b4e772ab8983030
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8291224005133875024
+    second: Asfalto Demarcado_0
+  - first:
+      213: -1602884704357838058
+    second: Asfalto Demarcado_1
+  - first:
+      213: 8962450594782044794
+    second: Asfalto Demarcado_2
+  - first:
+      213: -6999002815504022314
+    second: Asfalto Demarcado_3
+  - first:
+      213: 4530822007875502631
+    second: Asfalto Demarcado_4
+  - first:
+      213: -1906466453050446964
+    second: Asfalto Demarcado_5
+  - first:
+      213: 7076919893395306373
+    second: Asfalto Demarcado_6
+  - first:
+      213: -23046723439058873
+    second: Asfalto Demarcado_7
+  - first:
+      213: -5457588231441049082
+    second: Asfalto Demarcado_8
+  - first:
+      213: 1647835488579154121
+    second: Asfalto Demarcado_9
+  - first:
+      213: -5276654369528882302
+    second: Asfalto Demarcado_10
+  - first:
+      213: 4612053520746073715
+    second: Asfalto Demarcado_11
+  - first:
+      213: -7223711081100874636
+    second: Asfalto Demarcado_12
+  - first:
+      213: -8428266628480182248
+    second: Asfalto Demarcado_13
+  - first:
+      213: 3049407513809808448
+    second: Asfalto Demarcado_14
+  - first:
+      213: -5776604868029324459
+    second: Asfalto Demarcado_15
+  - first:
+      213: 3204058473568824100
+    second: Asfalto Demarcado_16
+  - first:
+      213: 2307165325949842919
+    second: Asfalto Demarcado_17
+  - first:
+      213: -2823975737609505405
+    second: Asfalto Demarcado_18
+  - first:
+      213: -3662544134913159703
+    second: Asfalto Demarcado_19
+  - first:
+      213: 6266886412208024168
+    second: Asfalto Demarcado_20
+  - first:
+      213: -4660228424474541909
+    second: Asfalto Demarcado_21
+  - first:
+      213: 419679844786735304
+    second: Asfalto Demarcado_22
+  - first:
+      213: -3111198276502414309
+    second: Asfalto Demarcado_23
+  - first:
+      213: 2845950904203330325
+    second: Asfalto Demarcado_24
+  - first:
+      213: 2826679050955004324
+    second: Asfalto Demarcado_25
+  - first:
+      213: -432608729610707333
+    second: Asfalto Demarcado_26
+  - first:
+      213: 7142498833124113785
+    second: Asfalto Demarcado_27
+  - first:
+      213: 3001620113854037802
+    second: Asfalto Demarcado_28
+  - first:
+      213: -315114828175436804
+    second: Asfalto Demarcado_29
+  - first:
+      213: 5584608538649938404
+    second: Asfalto Demarcado_30
+  - first:
+      213: -6236963363661789880
+    second: Asfalto Demarcado_31
+  - first:
+      213: -7510236056618055516
+    second: Asfalto Demarcado_32
+  - first:
+      213: 8245175808712974095
+    second: Asfalto Demarcado_33
+  - first:
+      213: -6810263360299533077
+    second: Asfalto Demarcado_34
+  - first:
+      213: -523960401223590305
+    second: Asfalto Demarcado_35
+  - first:
+      213: 12203312885209165
+    second: Asfalto Demarcado_36
+  - first:
+      213: -6947736423545771149
+    second: Asfalto Demarcado_37
+  - first:
+      213: -8285838578251853358
+    second: Asfalto Demarcado_38
+  - first:
+      213: 3784962610584452643
+    second: Asfalto Demarcado_39
+  - first:
+      213: 4529202984271859758
+    second: Asfalto Demarcado_40
+  - first:
+      213: 7011828140628668168
+    second: Asfalto Demarcado_41
+  - first:
+      213: -1576541497525669290
+    second: Asfalto Demarcado_42
+  - first:
+      213: -4913411778807245437
+    second: Asfalto Demarcado_43
+  - first:
+      213: -4905381798287027352
+    second: Asfalto Demarcado_44
+  - first:
+      213: 983960559461655729
+    second: Asfalto Demarcado_45
+  - first:
+      213: 2494378506363107357
+    second: Asfalto Demarcado_46
+  - first:
+      213: 6630301951038615669
+    second: Asfalto Demarcado_47
+  - first:
+      213: 7025379051494624988
+    second: Asfalto Demarcado_48
+  - first:
+      213: -2821423680383086948
+    second: Asfalto Demarcado_49
+  - first:
+      213: -323809908619812827
+    second: Asfalto Demarcado_50
+  - first:
+      213: 3486816533995072631
+    second: Asfalto Demarcado_51
+  - first:
+      213: 5793247092921665562
+    second: Asfalto Demarcado_52
+  - first:
+      213: 7482528080701439121
+    second: Asfalto Demarcado_53
+  - first:
+      213: -6234993722473544578
+    second: Asfalto Demarcado_54
+  - first:
+      213: -1289192408468604479
+    second: Asfalto Demarcado_55
+  - first:
+      213: -5531505866899408372
+    second: Asfalto Demarcado_56
+  - first:
+      213: 2043851257421966467
+    second: Asfalto Demarcado_57
+  - first:
+      213: -453617468878966572
+    second: Asfalto Demarcado_58
+  - first:
+      213: -7400676406920774463
+    second: Asfalto Demarcado_59
+  - first:
+      213: -7720212203451352055
+    second: Asfalto Demarcado_60
+  - first:
+      213: 4574824977268648541
+    second: Asfalto Demarcado_61
+  - first:
+      213: -7803087955715182307
+    second: Asfalto Demarcado_62
+  - first:
+      213: 8697869998963042155
+    second: Asfalto Demarcado_63
+  - first:
+      213: 1349017999437914616
+    second: Asfalto Demarcado_64
+  - first:
+      213: -8715330368326002644
+    second: Asfalto Demarcado_65
+  - first:
+      213: 3213049375254357007
+    second: Asfalto Demarcado_66
+  - first:
+      213: -1693120536802546780
+    second: Asfalto Demarcado_67
+  - first:
+      213: 8153663468905061433
+    second: Asfalto Demarcado_68
+  - first:
+      213: 5256207958441432961
+    second: Asfalto Demarcado_69
+  - first:
+      213: -2356483888290570110
+    second: Asfalto Demarcado_70
+  - first:
+      213: -496657842043381308
+    second: Asfalto Demarcado_71
+  - first:
+      213: -2794596501217650229
+    second: Asfalto Demarcado_72
+  - first:
+      213: 4976739418049358822
+    second: Asfalto Demarcado_73
+  - first:
+      213: -2234736075844831967
+    second: Asfalto Demarcado_74
+  - first:
+      213: 1172295394294540344
+    second: Asfalto Demarcado_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 35}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asfalto Demarcado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057323bcd48501370800000000000000
+      internalID: 8291224005133875024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61318d49ad861c9e0800000000000000
+      internalID: -1602884704357838058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e8f2b455016c70800000000000000
+      internalID: 8962450594782044794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d48ce7850c8ede90800000000000000
+      internalID: -6999002815504022314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72201ff5c96b0ee30800000000000000
+      internalID: 4530822007875502631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8baab1acdeda85e0800000000000000
+      internalID: -1906466453050446964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587f8bdd525463260800000000000000
+      internalID: 7076919893395306373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740ad2c802f1eaff0800000000000000
+      internalID: -23046723439058873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a9a964b60c244b0800000000000000
+      internalID: -5457588231441049082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0fa0175a94ed610800000000000000
+      internalID: 1647835488579154121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bd7bdcece85c6b0800000000000000
+      internalID: -5276654369528882302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ec82dcd3e410040800000000000000
+      internalID: 4612053520746073715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cedea6b0930cb90800000000000000
+      internalID: -7223711081100874636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d8210828c80b80800000000000000
+      internalID: -8428266628480182248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c6a043afba15a20800000000000000
+      internalID: 3049407513809808448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553e1517a7065dfa0800000000000000
+      internalID: -5776604868029324459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b66a4b43a177c20800000000000000
+      internalID: 3204058473568824100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5b65bd3a2b40020800000000000000
+      internalID: 2307165325949842919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385b67957093fc8d0800000000000000
+      internalID: -2823975737609505405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8f48a3870c2dc0800000000000000
+      internalID: -3662544134913159703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa16f0df378f650800000000000000
+      internalID: 6266886412208024168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0440b50fa835fb0800000000000000
+      internalID: -4660228424474541909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c887e3689003d500800000000000000
+      internalID: 419679844786735304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c144fb6adc2d4d0800000000000000
+      internalID: -3111198276502414309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513cd35d449de7720800000000000000
+      internalID: 2845950904203330325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a91636de916a3720800000000000000
+      internalID: 2826679050955004324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e12d807a01ff9f0800000000000000
+      internalID: -432608729610707333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d310d98d04f1360800000000000000
+      internalID: 7142498833124113785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fffec1795e7a920800000000000000
+      internalID: 3001620113854037802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3152bbbbc70abf0800000000000000
+      internalID: -315114828175436804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c7db90e3808d40800000000000000
+      internalID: 5584608538649938404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84540d79ddad179a0800000000000000
+      internalID: -6236963363661789880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a843f1f81846c790800000000000000
+      internalID: -7510236056618055516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f1bf496bfbc6270800000000000000
+      internalID: 8245175808712974095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becfc7e5e851d71a0800000000000000
+      internalID: -6810263360299533077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e52b88ac48ab8f0800000000000000
+      internalID: -523960401223590305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d481b9139da5b2000800000000000000
+      internalID: 12203312885209165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37be281988ea49f90800000000000000
+      internalID: -6947736423545771149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1121d96b9c20d80800000000000000
+      internalID: -8285838578251853358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e7504d073e68430800000000000000
+      internalID: 3784962610584452643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20d9211e16fade30800000000000000
+      internalID: 4529202984271859758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f624c2b840f4160800000000000000
+      internalID: 7011828140628668168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f1526cdffe1ae0800000000000000
+      internalID: -1576541497525669290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38559f0050e00dbb0800000000000000
+      internalID: -4913411778807245437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8635f698e359cebb0800000000000000
+      internalID: -4905381798287027352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4e4b36aeab7ad00800000000000000
+      internalID: 983960559461655729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1874272900dd9220800000000000000
+      internalID: 2494378506363107357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5707c31ee70930c50800000000000000
+      internalID: 6630301951038615669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdecec876092f7160800000000000000
+      internalID: 7025379051494624988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e04e97c1a48d8d0800000000000000
+      internalID: -2821423680383086948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e6fd8a98918bf0800000000000000
+      internalID: -323809908619812827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c2cb9e929a36030800000000000000
+      internalID: 3486816533995072631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1809ad798fb56050800000000000000
+      internalID: 5793247092921665562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c381035a747d760800000000000000
+      internalID: 7482528080701439121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748c2b6e3ad879a0800000000000000
+      internalID: -6234993722473544578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_55
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9391eb55edb1ee0800000000000000
+      internalID: -1289192408468604479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab872a8b42c33b0800000000000000
+      internalID: -5531505866899408372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c2f5cc3e73d5c10800000000000000
+      internalID: 2043851257421966467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0be8fb05d64b9f0800000000000000
+      internalID: -453617468878966572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc7fd3b4048b4990800000000000000
+      internalID: -7400676406920774463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c75a687eb4cd490800000000000000
+      internalID: -7720212203451352055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aaeaf041b0d7f30800000000000000
+      internalID: 4574824977268648541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11b778c8dcd5b390800000000000000
+      internalID: -7803087955715182307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6728b64eaa05b870800000000000000
+      internalID: 8697869998963042155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ea1c19bca8b210800000000000000
+      internalID: 1349017999437914616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2811cfa43dec0780800000000000000
+      internalID: -8715330368326002644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04a3d1226b079c20800000000000000
+      internalID: 3213049375254357007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab27f1a7d3d088e0800000000000000
+      internalID: -1693120536802546780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c5a2a99b1a72170800000000000000
+      internalID: 8153663468905061433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879b742a4dc1f840800000000000000
+      internalID: 5256207958441432961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_70
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280628783661c4fd0800000000000000
+      internalID: -2356483888290570110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c99716f2548b19f0800000000000000
+      internalID: -496657842043381308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc95f5ed9499739d0800000000000000
+      internalID: -2794596501217650229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb2480022ee01540800000000000000
+      internalID: 4976739418049358822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_74
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125b480116f9cf0e0800000000000000
+      internalID: -2234736075844831967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asfalto Demarcado_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838a0c43374d44010800000000000000
+      internalID: 1172295394294540344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
