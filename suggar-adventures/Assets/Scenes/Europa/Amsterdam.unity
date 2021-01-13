@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 279408108}
   - component: {fileID: 279408109}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Player_Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -304,6 +304,22 @@ PrefabInstance:
     - target: {fileID: 5412841446722005052, guid: ecec50ca568925b4181bb9cbd48194c1, type: 3}
       propertyPath: m_Name
       value: Daddy 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5412841447564899295, guid: ecec50ca568925b4181bb9cbd48194c1, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5412841447564899295, guid: ecec50ca568925b4181bb9cbd48194c1, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5412841448514239729, guid: ecec50ca568925b4181bb9cbd48194c1, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5412841448514239729, guid: ecec50ca568925b4181bb9cbd48194c1, type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecec50ca568925b4181bb9cbd48194c1, type: 3}

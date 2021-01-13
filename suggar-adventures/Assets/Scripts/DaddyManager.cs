@@ -11,7 +11,7 @@ public class DaddyManager : MonoBehaviour
     private Rigidbody2D rigidbody2D;
     float horizontalMovement = 0f;
     bool jump;
-    float jumpPower = 6.5f;
+    float jumpPower = 3.1f;
     private bool movimiento = true;
     private SpriteRenderer spr;
     private GameObject BarradeVida;
