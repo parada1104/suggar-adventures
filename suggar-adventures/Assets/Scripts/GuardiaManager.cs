@@ -11,6 +11,7 @@ public class GuardiaManager : MonoBehaviour
     public float visionRadius;
     public float visionAttackRange;
     public float speed;
+    private Rigidbody2D rb2d;
     public CharacterController2D controller;
     float horizontalMovement;
 
@@ -25,6 +26,7 @@ public class GuardiaManager : MonoBehaviour
         player = GameObject.FindWithTag("Player");
         //Guardamos nuestra posición inicia
         initialPosition = transform.position;
+        rb2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
     
@@ -92,9 +94,21 @@ public class GuardiaManager : MonoBehaviour
         Gizmos.color = Color.magenta;
         Gizmos.DrawWireSphere(transform.position,visionAttackRange);
     }
+    
+
     private void FixedUpdate()
     {
         controller.Move(horizontalMovement * Time.fixedDeltaTime, false, false);
         
+    }
+
+     void OnTriggerEnter2D(Collider2D col)
+    {
+        
+        if (col.gameObject.tag == "Player")
+        {
+            Debug.Log("Player detected");
+            col.SendMessage("enemyKnockBack",transform.position.x);
+        }
     }
 }
