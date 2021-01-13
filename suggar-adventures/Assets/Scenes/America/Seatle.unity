@@ -220,7 +220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c41dfef8950748e42855bc65a95239ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpeedMov: 1.5
+  SpeedMov: 2
 --- !u!114 &157386467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -228,7 +228,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 157386462}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 114413f21bced584690551109b1c96bb, type: 3}
   m_Name: 
@@ -818,7 +818,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3959460344660031403, guid: 763cb261670b55e448f1c9107be3b476, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.53
+      value: -4.67
       objectReference: {fileID: 0}
     - target: {fileID: 3959460344660031403, guid: 763cb261670b55e448f1c9107be3b476, type: 3}
       propertyPath: m_LocalPosition.z
