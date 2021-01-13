@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   visionRadius: 3
-  visionAttackRange: 1.3
+  visionAttackRange: 1.6
   speed: 1
   controller: {fileID: 754532235866018894}
 --- !u!114 &754532235866018894
