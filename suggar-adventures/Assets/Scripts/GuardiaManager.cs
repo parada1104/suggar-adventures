@@ -102,12 +102,14 @@ public class GuardiaManager : MonoBehaviour
         
     }
 
-     void OnTriggerEnter2D(Collider2D col)
+    //Esto verifica cuando el Collider del guardia colisiona con el Collider de Daddy
+    void OnTriggerEnter2D(Collider2D col)
     {
         
         if (col.gameObject.tag == "Player")
         {
             Debug.Log("Player detected");
+            //Sen envía la señala a la función de enemyKnockBack para hacer el efecto al recibir daño
             col.SendMessage("enemyKnockBack",transform.position.x);
         }
     }

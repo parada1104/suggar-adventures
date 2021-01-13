@@ -70,9 +70,12 @@ public class DaddyManager : MonoBehaviour
         }
         
     }
+    //Función de KnockBack al recibir daño, además del cambio en la barra de vida
     public void enemyKnockBack(float enemyPosX)
     {
+        //Se resta la vida al recibir daño
         BarradeVida.SendMessage("TomarDaño",15);
+        //Realiza el salto emulando el "impacto del golpe", además su tonalidad cambia a roja por .4 segundos
         jump = true;
         float side = Mathf.Sign(enemyPosX - transform.position.x);
         rigidbody2D.AddForce(Vector2.left*side*jumpPower,ForceMode2D.Impulse);
