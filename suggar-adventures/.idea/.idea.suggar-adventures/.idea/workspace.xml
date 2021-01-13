@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02faf6fd-f012-46a6-8573-09eab3141b7b" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.suggar-adventures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Europa/Amsterdam.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Europa/Amsterdam.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DaddyManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DaddyManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GuardiaManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GuardiaManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" afterDir="false" />
+=======
       <change afterPath="$PROJECT_DIR$/../.idea/.idea.suggar-adventures.dir/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/.idea.suggar-adventures.dir/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/.idea.suggar-adventures.dir/.idea/indexLayout.xml" afterDir="false" />
@@ -20,6 +30,7 @@
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
 =======
 >>>>>>> f0a5098d0259e5c0fa2942e4b2c971978537daaf
+>>>>>>> 5751f0f6a12424263cd19440290a4e3c5bf86f9c
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +41,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BarradeVida.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -37,7 +49,13 @@
       <option value="$PROJECT_DIR$/Assets/scripts/Player.cs" />
       <option value="$PROJECT_DIR$/Assets/scripts/GuardiaManager.cs" />
       <option value="$PROJECT_DIR$/Assets/scripts/DaddyManager.cs" />
+<<<<<<< HEAD
+      <option value="$PROJECT_DIR$/Assets/Scripts/GuardiaManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BarradeVida.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DaddyManager.cs" />
+=======
       <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+>>>>>>> 5751f0f6a12424263cd19440290a4e3c5bf86f9c
     </changedPaths>
   </component>
   <component name="ProjectId" id="1m2ba9RZsLWf93QYY0jYZQxQVvH" />
@@ -61,7 +79,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+<<<<<<< HEAD
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+=======
     <property name="settings.editor.selected.configurable" value="power.mode.ii" />
+>>>>>>> 5751f0f6a12424263cd19440290a4e3c5bf86f9c
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -102,7 +124,11 @@
       <workItem from="1610490966649" duration="2367000" />
 =======
       <workItem from="1610485730219" duration="1146000" />
+<<<<<<< HEAD
+      <workItem from="1610487897706" duration="7869000" />
+=======
 >>>>>>> f0a5098d0259e5c0fa2942e4b2c971978537daaf
+>>>>>>> 5751f0f6a12424263cd19440290a4e3c5bf86f9c
     </task>
     <servers />
   </component>
