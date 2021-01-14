@@ -23,6 +23,7 @@ public class GameManager : MonoBehaviour
         //En esta parte la funcion parte del fondo de nuestra escena haga la ilusion de mover el fondo
 
         fondo.material.mainTextureOffset = fondo.material.mainTextureOffset + new Vector2(0.005f, 0) * Time.deltaTime;
+
         if (gameState == GameState.Ended)
         {
             ReiniciarJuego();
@@ -31,7 +32,8 @@ public class GameManager : MonoBehaviour
 
     public void ReiniciarJuego()
     {
-        SceneManager.LoadScene("Seatle");
+        Scene escena = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(escena.name);
     }
 }
 
