@@ -15,6 +15,7 @@ public class DaddyManager : MonoBehaviour
     private bool movimiento = true;
     private SpriteRenderer spr;
     private GameObject BarradeVida;
+    private GameManager gameManager;
     
 
     //parameters
@@ -24,6 +25,7 @@ public class DaddyManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        gameManager = FindObjectOfType<GameManager>();
         animator = GetComponent<Animator>();
         rigidbody2D = GetComponent<Rigidbody2D>();
         spr = GetComponent<SpriteRenderer>();
@@ -49,6 +51,11 @@ public class DaddyManager : MonoBehaviour
         {
             jump = true;
             animator.SetBool("IsInAir",true);
+        }
+        Debug.Log(transform.position);
+        if( transform.position.y < -8)
+        {
+          gameManager.ReiniciarJuego();
         }
     }
 
@@ -88,5 +95,14 @@ public class DaddyManager : MonoBehaviour
     {
         movimiento = true;
         spr.color = Color.white;
+    }
+
+    void OnTriggerEnter2D(Collider2D Bill) {
+      //if collide with bills, destroy this bill
+      if(Bill.tag == "Bill")
+      {
+        gameManager.BillCount += 1;
+        Destroy(Bill.gameObject);
+      }
     }
 }
