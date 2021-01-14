@@ -105,11 +105,8 @@ public class DaddyManager : MonoBehaviour
         Destroy(Objeto.gameObject);
       }
 
-      if (Objeto.tag == "Dinamic Box")
-      {
-          Rigidbody2D MasaBox = Objeto.GetComponent<Rigidbody2D>();
+     
           
-          
-      }
+      
     }
 }
