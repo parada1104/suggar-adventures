@@ -25,7 +25,6 @@ public class BarradeVida : MonoBehaviour
         vida.transform.localScale = new Vector2(hp / maxHP, 1);
         if (hp == 0f)
         {
-            Debug.Log("Tas Muerto");
             GameManager.SendMessage("ReiniciarJuego");
         }
         
