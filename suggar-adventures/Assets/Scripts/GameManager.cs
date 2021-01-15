@@ -18,11 +18,17 @@ public class GameManager : MonoBehaviour
     public Text BilletestText;
 
     // Start is called before the first frame update
-    void Start()
-    {
+
+    private void Awake() {
+      DontDestroyOnLoad(gameObject);
+    }
+
+    void OnSceneLoaded(Scene scene){
       BillCount =  BillCount > 0 ? BillCount : 0; //if player has gotten bills before gather it
       InitialBillCount = BillCount;
-      
+    }
+    void Start()
+    {      
     }
 
     // Update is called once per frame
