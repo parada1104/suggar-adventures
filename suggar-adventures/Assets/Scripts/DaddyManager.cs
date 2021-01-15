@@ -15,6 +15,7 @@ public class DaddyManager : MonoBehaviour
     private bool movimiento = true;
     private SpriteRenderer spr;
     private GameManager gameManager;
+    private AudioSource SonidoSalto;
     
 
     //parameters
@@ -28,6 +29,7 @@ public class DaddyManager : MonoBehaviour
         animator = GetComponent<Animator>();
         rigidbody2D = GetComponent<Rigidbody2D>();
         spr = GetComponent<SpriteRenderer>();
+        SonidoSalto = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -47,6 +49,7 @@ public class DaddyManager : MonoBehaviour
 
         if (Input.GetButtonDown("Jump"))
         {
+            SonidoSalto.Play(0);
             jump = true;
             animator.SetBool("IsInAir",true);
         }
