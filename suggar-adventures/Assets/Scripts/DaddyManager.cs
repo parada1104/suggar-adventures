@@ -97,12 +97,16 @@ public class DaddyManager : MonoBehaviour
         spr.color = Color.white;
     }
 
-    void OnTriggerEnter2D(Collider2D Bill) {
+    void OnTriggerEnter2D(Collider2D Objeto) {
       //if collide with bills, destroy this bill
-      if(Bill.tag == "Bill")
+      if(Objeto.tag == "Bill")
       {
         gameManager.BillCount += 1;
-        Destroy(Bill.gameObject);
+        Destroy(Objeto.gameObject);
       }
+
+     
+          
+      
     }
 }
