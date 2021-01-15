@@ -6,6 +6,7 @@ public class CameraFollow : MonoBehaviour
 {
     // Start is called before the first frame update
     public float SpeedMov;
+    public float posMax;
     void Start()
     {
         
@@ -18,7 +19,12 @@ public class CameraFollow : MonoBehaviour
         float posX = follow.transform.position.x;
         float posY = follow.transform.position.y;
 */
-        transform.position += (new Vector3 (SpeedMov,0 ,0)) * Time.deltaTime;
+        if (transform.position.x < posMax)
+        {
+            transform.position += (new Vector3 (SpeedMov,0 ,0)) * Time.deltaTime;
+        }
+
+        
     
     }
 }
