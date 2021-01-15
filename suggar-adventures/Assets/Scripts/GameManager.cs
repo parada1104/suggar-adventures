@@ -26,16 +26,13 @@ public class GameManager : MonoBehaviour
     {
         DontDestroyOnLoad(gameObject);
     }
-
-    void OnSceneLoaded(Scene scene){
-        BillCount =  BillCount > 0 ? BillCount : 0; //if player has gotten bills before gather it
-        InitialBillCount = BillCount;
-    }
     void Start()
     {
 
-              //la vida inicial comienza siendo la vida máxima
+        //la vida inicial comienza siendo la vida máxima
         hp = maxHP;
+        BillCount =  BillCount > 0 ? BillCount : 0; //if player has gotten bills before gather it
+        InitialBillCount = BillCount;
     }
 
     // Update is called once per frame
