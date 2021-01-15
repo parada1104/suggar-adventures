@@ -56,6 +56,10 @@ public class DaddyManager : MonoBehaviour
         {
           gameManager.ReiniciarJuego();
         }
+        if (transform.position.y < -8)
+        {
+            Destroy(gameObject);
+        }
     }
 
     public void OnLanding()
