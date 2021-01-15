@@ -52,7 +52,6 @@ public class DaddyManager : MonoBehaviour
             jump = true;
             animator.SetBool("IsInAir",true);
         }
-        Debug.Log(transform.position);
         if( transform.position.y < -8)
         {
           gameManager.ReiniciarJuego();
