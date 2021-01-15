@@ -57,6 +57,10 @@ public class GuardiaManager : MonoBehaviour
         {
             animator.SetBool("isInRange",false);
         }
+        if (transform.position.y < -8)
+        {
+            Destroy(gameObject);
+        }
 
         
         
