@@ -11,9 +11,12 @@ public class CameraFollow : MonoBehaviour
     public float posMax;
     [SerializeField]
     private string NextScene;
+    [SerializeField]
+    private GameObject Player;
+    private GameObject gameManager;
     void Start()
     {
-        
+        gameManager = GameObject.Find("GameManager");
     }
 
     // Update is called once per frame
@@ -23,15 +26,19 @@ public class CameraFollow : MonoBehaviour
         float posX = follow.transform.position.x;
         float posY = follow.transform.position.y;
 */
+
         if (transform.position.x > posMax)
         {
           Scene ActualScene = SceneManager.GetActiveScene();
           SceneManager.LoadScene(NextScene);
         }
         transform.position += (new Vector3 (SpeedMov,0 ,0)) * Time.deltaTime;
-
-
-        
-    
+        float PlayerX =  Player.transform.position.x;
+        float Distancia = PlayerX - transform.position.x;
+        Debug.Log(Distancia);
+        if(Distancia < -13)
+        {
+          gameManager.SendMessage("ReiniciarJuego");
+        }
     }
 }
