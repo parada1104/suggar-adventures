@@ -16,19 +16,26 @@ public class GameManager : MonoBehaviour
     public int BillCount; //just tell how many bills player has gotten
     public int InitialBillCount; //Quantity of Bills gotten before the level
     public Text BilletestText;
+    public Image vida;
+    //Se establece 100 como vida inicial
+    private float hp, maxHP = 100f;
 
     // Start is called before the first frame update
 
-    private void Awake() {
+    private void Awake() 
+    {
+        DontDestroyOnLoad(gameObject);
     }
 
     void OnSceneLoaded(Scene scene){
-      BillCount =  BillCount > 0 ? BillCount : 0; //if player has gotten bills before gather it
-      InitialBillCount = BillCount;
+        BillCount =  BillCount > 0 ? BillCount : 0; //if player has gotten bills before gather it
+        InitialBillCount = BillCount;
     }
     void Start()
     {
-      DontDestroyOnLoad(gameObject);
+
+              //la vida inicial comienza siendo la vida máxima
+        hp = maxHP;
     }
 
     // Update is called once per frame
@@ -48,6 +55,19 @@ public class GameManager : MonoBehaviour
         Destroy(gameObject);
         SceneManager.LoadScene(escena.name);
         BillCount = InitialBillCount;
+    }
+
+        public void TomarDaño(float cant)
+    {
+        //Se encarga de que la vida no puede ser menor que 0 ni mayor que 100
+        hp = Mathf.Clamp(hp - cant, 0f, maxHP);
+        //cambia la escala del sprite para simular una barra que disminuye
+        vida.transform.localScale = new Vector2(hp / maxHP, 1);
+        if (hp == 0f)
+        {
+            this.SendMessage("ReiniciarJuego");
+        }
+        
     }
 }
 

@@ -14,7 +14,6 @@ public class DaddyManager : MonoBehaviour
     float jumpPower = 3.1f;
     private bool movimiento = true;
     private SpriteRenderer spr;
-    private GameObject BarradeVida;
     private GameManager gameManager;
     
 
@@ -29,7 +28,6 @@ public class DaddyManager : MonoBehaviour
         animator = GetComponent<Animator>();
         rigidbody2D = GetComponent<Rigidbody2D>();
         spr = GetComponent<SpriteRenderer>();
-        BarradeVida = GameObject.Find("BarradeVida");
     }
 
     // Update is called once per frame
@@ -81,7 +79,7 @@ public class DaddyManager : MonoBehaviour
     public void enemyKnockBack(float enemyPosX)
     {
         //Se resta la vida al recibir daño
-        BarradeVida.SendMessage("TomarDaño",15);
+        gameManager.SendMessage("TomarDaño",15);
         //Realiza el salto emulando el "impacto del golpe", además su tonalidad cambia a roja por .4 segundos
         jump = true;
         float side = Mathf.Sign(enemyPosX - transform.position.x);
@@ -109,7 +107,7 @@ public class DaddyManager : MonoBehaviour
     void OnCollisionEnter2D(Collision2D other) {
       if(other.gameObject.tag == "pikes")
       {
-        BarradeVida.SendMessage("TomarDaño",15);
+        gameManager.SendMessage("TomarDaño",15);
         Invoke("ActivarMovimiento",0.4f);
         spr.color = Color.red;
       }
