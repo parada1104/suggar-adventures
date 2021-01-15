@@ -20,11 +20,14 @@ public class GameManager : MonoBehaviour
     //Se establece 100 como vida inicial
     private float hp, maxHP = 100f;
 
+    private string BillsPrefsName = "Billcount";
+    private string ScorePointsPrefName = "ScorePoints";
+
     // Start is called before the first frame update
 
     private void Awake() 
     {
-        DontDestroyOnLoad(gameObject);
+      LoadData();
     }
     void Start()
     {
@@ -49,7 +52,6 @@ public class GameManager : MonoBehaviour
     public void ReiniciarJuego()
     {
         Scene escena = SceneManager.GetActiveScene();
-        Destroy(gameObject);
         SceneManager.LoadScene(escena.name);
         BillCount = InitialBillCount;
     }
@@ -64,7 +66,22 @@ public class GameManager : MonoBehaviour
         {
             this.SendMessage("ReiniciarJuego");
         }
-        
+    }
+
+    private void OnDestroy() {
+      SaveData();
+    }
+
+    private void SaveData()
+    {
+      PlayerPrefs.SetInt(BillsPrefsName,BillCount);
+      PlayerPrefs.SetInt(ScorePointsPrefName, ScorePoints);
+    }
+
+    private void LoadData()
+    {
+      BillCount = PlayerPrefs.GetInt(BillsPrefsName,0);
+      ScorePoints = PlayerPrefs.GetInt(BillsPrefsName,0);
     }
 }
 
