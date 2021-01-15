@@ -103,9 +103,14 @@ public class DaddyManager : MonoBehaviour
         gameManager.BillCount += 1;
         Destroy(Objeto.gameObject);
       }
+    }
 
-     
-          
-      
+    void OnCollisionEnter2D(Collision2D other) {
+      if(other.gameObject.tag == "pikes")
+      {
+        BarradeVida.SendMessage("TomarDaño",15);
+        Invoke("ActivarMovimiento",0.4f);
+        spr.color = Color.red;
+      }
     }
 }
