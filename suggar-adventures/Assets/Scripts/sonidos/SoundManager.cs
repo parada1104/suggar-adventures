@@ -2,19 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LifeCycle : MonoBehaviour
+public class SoundManager : MonoBehaviour
 {
     // Start is called before the first frame update
-    [Range(0,1)][SerializeField]
-    private float LifeTime;
+
+    private AudioSource AudioData;
     void Start()
     {
-        Destroy(gameObject,LifeTime);
+        AudioData = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
-    void Update()
+    public void ReproducirSonido()
     {
-        
+        AudioData.Play();
     }
 }

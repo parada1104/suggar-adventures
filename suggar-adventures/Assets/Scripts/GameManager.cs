@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 public enum GameState{Idle, Playing, Ended};
-
 public class GameManager : MonoBehaviour
 {
     private GameState gameState = GameState.Idle;
@@ -77,7 +76,7 @@ public class GameManager : MonoBehaviour
     private void LoadData()
     {
       BillCount = PlayerPrefs.GetInt(BillsPrefsName,0);
-      ScorePoints = PlayerPrefs.GetInt(BillsPrefsName,0);
+      ScorePoints = PlayerPrefs.GetInt(ScorePointsPrefName,0);
     }
 }
 
