@@ -20,7 +20,6 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
 
     private void Awake() {
-      DontDestroyOnLoad(gameObject);
     }
 
     void OnSceneLoaded(Scene scene){
@@ -28,7 +27,8 @@ public class GameManager : MonoBehaviour
       InitialBillCount = BillCount;
     }
     void Start()
-    {      
+    {
+      DontDestroyOnLoad(gameObject);
     }
 
     // Update is called once per frame
@@ -45,6 +45,7 @@ public class GameManager : MonoBehaviour
     public void ReiniciarJuego()
     {
         Scene escena = SceneManager.GetActiveScene();
+        Destroy(gameObject);
         SceneManager.LoadScene(escena.name);
         BillCount = InitialBillCount;
     }

@@ -25,6 +25,7 @@ public class CameraFollow : MonoBehaviour
 */
         if (transform.position.x > posMax)
         {
+          Scene ActualScene = SceneManager.GetActiveScene();
           SceneManager.LoadScene(NextScene);
         }
         transform.position += (new Vector3 (SpeedMov,0 ,0)) * Time.deltaTime;
