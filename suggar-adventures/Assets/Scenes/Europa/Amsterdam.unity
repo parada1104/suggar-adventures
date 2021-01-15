@@ -988,7 +988,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SpeedMov: 3
-  posMax: 150
+  posMax: 80
   NextScene: MenuPrincipal
   Player: {fileID: 996342682}
 --- !u!1 &739962231
