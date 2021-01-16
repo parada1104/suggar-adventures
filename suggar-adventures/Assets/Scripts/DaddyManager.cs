@@ -14,8 +14,9 @@ public class DaddyManager : MonoBehaviour
     float jumpPower = 3.1f;
     private bool movimiento = true;
     private SpriteRenderer spr;
-    private GameObject BarradeVida;
     private GameManager gameManager;
+    private SoundManager SonidoSalto;
+    private SoundManager SonidoPaso;
     
 
     //parameters
@@ -25,11 +26,12 @@ public class DaddyManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        SonidoPaso = GetComponentInChildren<SoundManager>();
+        SonidoSalto = GetComponentInChildren<SoundManager>();
         gameManager = FindObjectOfType<GameManager>();
         animator = GetComponent<Animator>();
         rigidbody2D = GetComponent<Rigidbody2D>();
         spr = GetComponent<SpriteRenderer>();
-        BarradeVida = GameObject.Find("BarradeVida");
     }
 
     // Update is called once per frame
@@ -40,7 +42,10 @@ public class DaddyManager : MonoBehaviour
         
         if (horizontalMovement > 0 || horizontalMovement < 0)
         {
-            animator.SetBool("IsInMove",true);
+            if(animator.GetBool("IsInAir") == false)
+            {
+                RealizarPasos();
+            }
         }
         else
         {
@@ -49,8 +54,7 @@ public class DaddyManager : MonoBehaviour
 
         if (Input.GetButtonDown("Jump"))
         {
-            jump = true;
-            animator.SetBool("IsInAir",true);
+            RealizarSalto();
         }
         if( transform.position.y < -8)
         {
@@ -67,19 +71,18 @@ public class DaddyManager : MonoBehaviour
     private void FixedUpdate()
     {
         controller.Move(horizontalMovement * Time.fixedDeltaTime, false, jump);
-        if (!movimiento) horizontalMovement = 0;
+        if (!movimiento)horizontalMovement = 0;
         jump = false;
         if (jump)
         {
             rigidbody2D.AddForce(Vector2.up*jumpPower,ForceMode2D.Impulse);
-            jump = false;
         }
     }
     //Función de KnockBack al recibir daño, además del cambio en la barra de vida
     public void enemyKnockBack(float enemyPosX)
     {
         //Se resta la vida al recibir daño
-        BarradeVida.SendMessage("TomarDaño",15);
+        gameManager.SendMessage("TomarDaño",15);
         //Realiza el salto emulando el "impacto del golpe", además su tonalidad cambia a roja por .4 segundos
         jump = true;
         float side = Mathf.Sign(enemyPosX - transform.position.x);
@@ -94,19 +97,34 @@ public class DaddyManager : MonoBehaviour
         spr.color = Color.white;
     }
     void OnTriggerEnter2D(Collider2D Objeto) {
-      //if collide with bills, destroy this bill
-      if(Objeto.tag == "Bill")
-      {
-        gameManager.BillCount += 1;
-        Destroy(Objeto.gameObject);
-      }
+        //if collide with bills, destroy this bill
+        if(Objeto.tag == "Bill")
+        {
+            gameManager.BillCount += 1;
+            Destroy(Objeto.gameObject);
+        }
     }
     void OnCollisionEnter2D(Collision2D other) {
-      if(other.gameObject.tag == "pikes")
-      {
-        BarradeVida.SendMessage("TomarDaño",15);
-        Invoke("ActivarMovimiento",0.4f);
-        spr.color = Color.red;
-      }
+        if(other.gameObject.tag == "pikes")
+        {
+            gameManager.SendMessage("TomarDaño",15);
+            Invoke("ActivarMovimiento",0.4f);
+            spr.color = Color.red;
+        }
+    }
+
+    private void RealizarSalto()
+    {
+        SonidoSalto.ReproducirSonido();
+        jump = true;
+        animator.SetBool("IsInAir",true);
+        animator.SetBool("IsInMove",false);
+    }
+
+    private void RealizarPasos()
+    {
+        SonidoPaso.ReproducirSonido();
+        animator.SetBool("IsInAir",false);
+        animator.SetBool("IsInMove",true);
     }
 }
