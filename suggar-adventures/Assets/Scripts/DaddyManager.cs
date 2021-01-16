@@ -63,7 +63,6 @@ public class DaddyManager : MonoBehaviour
     {
         animator.SetBool("IsInAir",false);
     }
-
     //for movement
     private void FixedUpdate()
     {
@@ -75,7 +74,6 @@ public class DaddyManager : MonoBehaviour
             rigidbody2D.AddForce(Vector2.up*jumpPower,ForceMode2D.Impulse);
             jump = false;
         }
-        
     }
     //Función de KnockBack al recibir daño, además del cambio en la barra de vida
     public void enemyKnockBack(float enemyPosX)
@@ -90,13 +88,11 @@ public class DaddyManager : MonoBehaviour
         Invoke("ActivarMovimiento",0.4f);
         spr.color = Color.red;
     }
-
     void ActivarMovimiento()
     {
         movimiento = true;
         spr.color = Color.white;
     }
-
     void OnTriggerEnter2D(Collider2D Objeto) {
       //if collide with bills, destroy this bill
       if(Objeto.tag == "Bill")
@@ -105,7 +101,6 @@ public class DaddyManager : MonoBehaviour
         Destroy(Objeto.gameObject);
       }
     }
-
     void OnCollisionEnter2D(Collision2D other) {
       if(other.gameObject.tag == "pikes")
       {

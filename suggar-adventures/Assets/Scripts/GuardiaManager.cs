@@ -5,8 +5,6 @@ using UnityEngine;
 
 public class GuardiaManager : MonoBehaviour
 {
-    
-    
     //la variable visionRadius almacena el radio de vision que tendrá el guardia. la variable speed es la el multiplicador de la velocidad de movimiento
     public float visionRadius;
     public float visionAttackRange;
@@ -29,10 +27,8 @@ public class GuardiaManager : MonoBehaviour
         rb2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
-    
     void Update()
     {
-        
         //el Guardia siempre tendrá como posición inicial el primer punto
         Vector3 target = initialPosition;
         
@@ -40,7 +36,6 @@ public class GuardiaManager : MonoBehaviour
         float dist = Vector3.Distance(player.transform.position, transform.position);
         if (dist < visionRadius)
         {
-            
             target = player.transform.position;
             
             animator.SetBool("isInRange",true);
