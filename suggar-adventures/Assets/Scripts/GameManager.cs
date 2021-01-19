@@ -27,7 +27,6 @@ public class GameManager : MonoBehaviour
     }
     void Start()
     {
-
         ActualScene = SceneManager.GetActiveScene();
         hp = maxHP; //la vida inicial comienza siendo la vida máxima
         BillCount = ActualScene.name == "Seatle" ? 0 : BillCount; //if player has gotten bills before gather it
@@ -42,6 +41,7 @@ public class GameManager : MonoBehaviour
         {
             ReiniciarJuego();
         }
+        
     }
 
     public void ReiniciarJuego()
