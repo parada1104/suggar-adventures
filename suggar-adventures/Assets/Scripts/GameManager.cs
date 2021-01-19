@@ -69,14 +69,14 @@ public class GameManager : MonoBehaviour
 
     private void SaveData()
     {
-      PlayerPrefs.SetInt(BillsPrefsName,BillCount);
-      PlayerPrefs.SetInt(ScorePointsPrefName, ScorePoints);
+        PlayerPrefs.SetInt(BillsPrefsName,BillCount);
+        PlayerPrefs.SetInt(ScorePointsPrefName, ScorePoints);
     }
 
     private void LoadData()
     {
-      BillCount = PlayerPrefs.GetInt(BillsPrefsName,0);
-      ScorePoints = PlayerPrefs.GetInt(ScorePointsPrefName,0);
+        BillCount = PlayerPrefs.GetInt(BillsPrefsName,0);
+        ScorePoints = PlayerPrefs.GetInt(ScorePointsPrefName,0);
     }
 }
 

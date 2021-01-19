@@ -42,10 +42,7 @@ public class DaddyManager : MonoBehaviour
         
         if (horizontalMovement > 0 || horizontalMovement < 0)
         {
-            if(animator.GetBool("IsInAir") == false)
-            {
-                RealizarPasos();
-            }
+          RealizarPasos();
         }
         else
         {
@@ -54,7 +51,10 @@ public class DaddyManager : MonoBehaviour
 
         if (Input.GetButtonDown("Jump"))
         {
+          if(animator.GetBool("IsInAir") == false)
+          {
             RealizarSalto();
+          }
         }
         if( transform.position.y < -8)
         {
@@ -115,16 +115,25 @@ public class DaddyManager : MonoBehaviour
 
     private void RealizarSalto()
     {
-        SonidoSalto.ReproducirSonido();
         jump = true;
         animator.SetBool("IsInAir",true);
-        animator.SetBool("IsInMove",false);
     }
 
     private void RealizarPasos()
     {
-        SonidoPaso.ReproducirSonido();
-        animator.SetBool("IsInAir",false);
         animator.SetBool("IsInMove",true);
+        if(animator.GetBool("IsInAir") == true)
+        {
+          animator.SetBool("IsInAir", false);
+        }
+    }
+
+    private void ReproducirPaso()
+    {
+      SonidoPaso.ReproducirSonido();
+    }
+    private void ReproducirSalto()
+    {
+      SonidoSalto.ReproducirSonido();
     }
 }
