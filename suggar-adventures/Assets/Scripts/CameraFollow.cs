@@ -35,7 +35,6 @@ public class CameraFollow : MonoBehaviour
         transform.position += (new Vector3 (SpeedMov,0 ,0)) * Time.deltaTime;
         float PlayerX =  Player.transform.position.x;
         float Distancia = PlayerX - transform.position.x;
-        Debug.Log(Distancia);
         if(Distancia < -13)
         {
           gameManager.SendMessage("ReiniciarJuego");

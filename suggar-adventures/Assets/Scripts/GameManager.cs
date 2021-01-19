@@ -16,6 +16,7 @@ public class GameManager : MonoBehaviour
     private string BillsPrefsName = "Billcount";
     private string ScorePointsPrefName = "ScorePoints";
     private Scene ActualScene;
+    private float CompletitionTime;
 
     // Start is called before the first frame update
     private void Awake() 
@@ -31,6 +32,7 @@ public class GameManager : MonoBehaviour
         hp = maxHP; //la vida inicial comienza siendo la vida máxima
         BillCount = ActualScene.name == "Seatle" ? 0 : BillCount; //if player has gotten bills before gather it
         InitialBillCount = BillCount;
+        CompletitionTime = 0;
     }
 
     // Update is called once per frame
@@ -41,7 +43,8 @@ public class GameManager : MonoBehaviour
         {
             ReiniciarJuego();
         }
-        
+        CompletitionTime += 1 * Time.deltaTime;
+        Debug.Log(CompletitionTime);
     }
 
     public void ReiniciarJuego()
