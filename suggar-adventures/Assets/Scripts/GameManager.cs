@@ -81,6 +81,12 @@ public class GameManager : MonoBehaviour
         BillCount = PlayerPrefs.GetInt(BillsPrefsName,0);
         ScorePoints = PlayerPrefs.GetInt(ScorePointsPrefName,0);
     }
+
+    float CalculoPuntaje(float time, int BillCount, float hp)
+    {
+      int puntaje = (int)((BillCount/time)*hp);
+      return puntaje;
+    }
 }
 
 
