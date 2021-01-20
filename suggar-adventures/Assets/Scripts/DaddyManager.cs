@@ -9,7 +9,7 @@ public class DaddyManager : MonoBehaviour
     public CharacterController2D controller;
     private Animator animator;
     private Rigidbody2D rigidbody2D;
-    float horizontalMovement = 0f;
+    private float horizontalMovement = 0f;
     bool jump;
     float jumpPower = 3.1f;
     private bool movimiento = true;
@@ -37,7 +37,6 @@ public class DaddyManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //prueba git discord
         horizontalMovement = Input.GetAxisRaw("Horizontal") * runSpeed;
         
         if (horizontalMovement > 0 || horizontalMovement < 0)
@@ -56,6 +55,7 @@ public class DaddyManager : MonoBehaviour
             RealizarSalto();
           }
         }
+        //para reiniciar el juego
         if( transform.position.y < -8)
         {
           gameManager.ReiniciarJuego();
@@ -67,6 +67,7 @@ public class DaddyManager : MonoBehaviour
     {
         animator.SetBool("IsInAir",false);
     }
+     
     //for movement
     private void FixedUpdate()
     {
@@ -88,7 +89,7 @@ public class DaddyManager : MonoBehaviour
         float side = Mathf.Sign(enemyPosX - transform.position.x);
         rigidbody2D.AddForce(Vector2.left*side*jumpPower,ForceMode2D.Impulse);
         movimiento = false;
-        Invoke("ActivarMovimiento",0.4f);
+        Invoke("ActivarMovimiento", 0.4f);
         spr.color = Color.red;
     }
     void ActivarMovimiento()
@@ -130,10 +131,10 @@ public class DaddyManager : MonoBehaviour
 
     private void ReproducirPaso()
     {
-      SonidoPaso.ReproducirSonido();
+        SonidoPaso.ReproducirSonido();
     }
     private void ReproducirSalto()
     {
-      SonidoSalto.ReproducirSonido();
+        SonidoSalto.ReproducirSonido();
     }
 }
