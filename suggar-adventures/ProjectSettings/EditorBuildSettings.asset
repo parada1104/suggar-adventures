@@ -12,9 +12,18 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuPrincipal.unity
     guid: 4c9e97f580e5aef49a5b255b1a13ac8d
   - enabled: 1
+    path: Assets/Scenes/America/Cataratas del iwasu.unity
+    guid: 645da476900fa5d4fa153553363cb90d
+  - enabled: 1
     path: Assets/Scenes/America/Seatle.unity
     guid: fcaacf4e3c823884eb231faec401a6fe
   - enabled: 1
     path: Assets/Scenes/Europa/Amsterdam.unity
     guid: 96daf2c14fa272940b63f68f10f1743e
+  - enabled: 1
+    path: Assets/Scenes/Europa/Coliseo Romano.unity
+    guid: 3a60696750cb45d42bbfb7f41d77cfc6
+  - enabled: 1
+    path: Assets/Scenes/Europa/Ojo de Londres.unity
+    guid: c74312ddca6bca94f9ec3916b0b3316f
   m_configObjects: {}

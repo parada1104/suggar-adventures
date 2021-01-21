@@ -7,7 +7,7 @@ public class Menu : MonoBehaviour
 {
    public void Jugar()
     {
-        SceneManager.LoadScene("Seatle");
+        SceneManager.LoadScene("Cataratas del iwasu");
 
     }
     public void Salir()
