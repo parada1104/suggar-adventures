@@ -1,9 +1,16 @@
 ﻿using System.Collections;
-using System.Collections.Generic;using UnityEditor.UI;
+using System.Collections.Generic;
+using UnityEditor.UI;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-public enum GameState{Idle, Playing, Ended};
+public enum GameState
+{
+  Idle,
+  Playing,
+  Ended
+};
+
 public class GameManager : MonoBehaviour
 {
     private GameState gameState = GameState.Idle;
@@ -12,7 +19,7 @@ public class GameManager : MonoBehaviour
     public int InitialBillCount; //Quantity of Bills gotten before the level
     public Text BilletestText;
     public Image vida;
-    private float hp, maxHP = 100f; //Se establece 100 como vida inicial
+    private float hp, maxHP = 100f; //Se establece 100 como vida inicial y maxima
     private string BillsPrefsName = "Billcount";
     private string ScorePointsPrefName = "ScorePoints";
     private Scene ActualScene;
@@ -31,8 +38,9 @@ public class GameManager : MonoBehaviour
         ActualScene = SceneManager.GetActiveScene();
         hp = maxHP; //la vida inicial comienza siendo la vida máxima
         BillCount = ActualScene.name == "Seatle" ? 0 : BillCount; //if player has gotten bills before gather it
-        InitialBillCount = BillCount;
+        ScorePoints = 0;
         CompletitionTime = 0;
+        InitialBillCount = BillCount;
     }
 
     // Update is called once per frame
@@ -78,8 +86,8 @@ public class GameManager : MonoBehaviour
 
     private void LoadData()
     {
-        BillCount = PlayerPrefs.GetInt(BillsPrefsName,0);
-        ScorePoints = PlayerPrefs.GetInt(ScorePointsPrefName,0);
+        BillCount = PlayerPrefs.GetInt(BillsPrefsName, 0);
+        ScorePoints = PlayerPrefs.GetInt(ScorePointsPrefName, 0);
     }
 
     float CalculoPuntaje(float time, int BillCount, float hp)

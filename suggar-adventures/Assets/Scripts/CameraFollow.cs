@@ -29,13 +29,14 @@ public class CameraFollow : MonoBehaviour
 
         if (transform.position.x > posMax)
         {
-          Scene ActualScene = SceneManager.GetActiveScene();
           SceneManager.LoadScene(NextScene);
         }
+
+
         transform.position += (new Vector3 (SpeedMov,0 ,0)) * Time.deltaTime;
         float PlayerX =  Player.transform.position.x;
         float Distancia = PlayerX - transform.position.x;
-        if(Distancia < -13)
+        if(Distancia < - 13)
         {
           gameManager.SendMessage("ReiniciarJuego");
         }
