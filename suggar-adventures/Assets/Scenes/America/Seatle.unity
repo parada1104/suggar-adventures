@@ -526,7 +526,7 @@ PrefabInstance:
       objectReference: {fileID: 1254584240}
     - target: {fileID: 7815387468856879664, guid: 28896741b5593934ba6344a3581f6915, type: 3}
       propertyPath: NextScene
-      value: Bangkok
+      value: Amsterdam
       objectReference: {fileID: 0}
     - target: {fileID: 7815387468856879667, guid: 28896741b5593934ba6344a3581f6915, type: 3}
       propertyPath: m_RootOrder
@@ -3557,7 +3557,7 @@ Transform:
   - {fileID: 201425254}
   - {fileID: 1044703477}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1938740869
 PrefabInstance:

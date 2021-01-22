@@ -509,6 +509,10 @@ PrefabInstance:
       propertyPath: posMax
       value: 175
       objectReference: {fileID: 0}
+    - target: {fileID: 7815387468856879664, guid: 28896741b5593934ba6344a3581f6915, type: 3}
+      propertyPath: NextScene
+      value: Desierto del Sahara
+      objectReference: {fileID: 0}
     - target: {fileID: 7815387468856879666, guid: 28896741b5593934ba6344a3581f6915, type: 3}
       propertyPath: orthographic size
       value: 5.206792
