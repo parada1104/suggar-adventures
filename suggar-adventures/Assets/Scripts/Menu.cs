@@ -5,10 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
+    [SerializeField] private string ScenaPrincipal;
    public void Jugar()
     {
-        SceneManager.LoadScene("Cataratas del iwasu");
-
+        SceneManager.LoadScene(ScenaPrincipal);
+        PlayerPrefs.SetString("EscenaPrincipal",ScenaPrincipal);
     }
     public void Salir()
     {
