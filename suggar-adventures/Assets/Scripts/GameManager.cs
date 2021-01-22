@@ -27,12 +27,14 @@ public class GameManager : MonoBehaviour
     private bool GameOver = false;
     private int puntajes;
     private int puntajeText;
+    private string EscenaPrincipal;
 
 
     // Start is called before the first frame update
     private void Awake() 
     {
-        if(ActualScene.name != "Seatle")
+        EscenaPrincipal = PlayerPrefs.GetString("EscenaPrincipal");
+        if(ActualScene.name != EscenaPrincipal)
         {
           LoadData();
         }
@@ -41,10 +43,11 @@ public class GameManager : MonoBehaviour
     {
         ActualScene = SceneManager.GetActiveScene();
         hp = maxHP; //la vida inicial comienza siendo la vida máxima
-        BillCount = ActualScene.name == "Seatle" ? 0 : BillCount; //if player has gotten bills before gather it
+        BillCount = ActualScene.name == EscenaPrincipal ? 0 : BillCount; //if player has gotten bills before gather it
         ScorePoints = 0;
         CompletitionTime = 0;
         InitialBillCount = BillCount;
+        Debug.Log(EscenaPrincipal);
     }
 
     // Update is called once per frame
