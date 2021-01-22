@@ -1861,6 +1861,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameManager
       objectReference: {fileID: 0}
+    - target: {fileID: 6280130373000342612, guid: 2e09304529bfbcc498faaa912f7d21e6, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 150.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280130373000342612, guid: 2e09304529bfbcc498faaa912f7d21e6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 162.34
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2e09304529bfbcc498faaa912f7d21e6, type: 3}
 --- !u!4 &435123268 stripped
@@ -7177,9 +7185,9 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 3019019d63e8e6a4e842378e329dde39, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.05
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
