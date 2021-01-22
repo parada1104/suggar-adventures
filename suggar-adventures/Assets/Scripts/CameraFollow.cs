@@ -8,15 +8,15 @@ public class CameraFollow : MonoBehaviour
 {
     // Start is called before the first frame update
     public float SpeedMov;
-    public float posMax;
+    [Range(80,200)][SerializeField] float posMax;
     [SerializeField]
     private string NextScene;
-    [SerializeField]
     private GameObject Player;
-    private GameObject gameManager;
+    private GameManager gameManager;
     void Start()
     {
-        gameManager = GameObject.Find("GameManager");
+        gameManager = FindObjectOfType<GameManager>();
+        Player = GameObject.Find("Daddy 1");
     }
 
     // Update is called once per frame
@@ -38,7 +38,7 @@ public class CameraFollow : MonoBehaviour
         float Distancia = PlayerX - transform.position.x;
         if(Distancia < - 13)
         {
-          gameManager.SendMessage("ReiniciarJuego");
+          gameManager.ReiniciarJuego();
         }
     }
 }

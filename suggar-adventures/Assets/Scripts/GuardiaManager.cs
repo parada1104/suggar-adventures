@@ -45,7 +45,6 @@ public class GuardiaManager : MonoBehaviour
             if (dist < visionAttackRange)
             {
                 animator.SetBool("isInAttackRange",true);
-                RealizarPaso();
             }
             else
             {
@@ -115,10 +114,5 @@ public class GuardiaManager : MonoBehaviour
             //Sen envía la señala a la función de enemyKnockBack para hacer el efecto al recibir daño
             col.SendMessage("enemyKnockBack",transform.position.x);
         }
-    }
-
-    public void RealizarPaso()
-    {
-      SonidoPaso.ReproducirSonido();
     }
 }
