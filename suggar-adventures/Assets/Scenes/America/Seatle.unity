@@ -4090,6 +4090,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6280130371805349236, guid: 2e09304529bfbcc498faaa912f7d21e6, type: 3}
+      propertyPath: InitialBillCount
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 6280130371805349237, guid: 2e09304529bfbcc498faaa912f7d21e6, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -4137,6 +4141,14 @@ PrefabInstance:
     - target: {fileID: 6280130371805349239, guid: 2e09304529bfbcc498faaa912f7d21e6, type: 3}
       propertyPath: m_Name
       value: GameManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280130373000342612, guid: 2e09304529bfbcc498faaa912f7d21e6, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 290.97153
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280130373000342612, guid: 2e09304529bfbcc498faaa912f7d21e6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 232.49
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2e09304529bfbcc498faaa912f7d21e6, type: 3}
