@@ -24,6 +24,10 @@ public class GameManager : MonoBehaviour
     private string ScorePointsPrefName = "ScorePoints";
     private Scene ActualScene;
     private float CompletitionTime;
+    private bool GameOver = false;
+    private int puntajes;
+    private int puntajeText;
+
 
     // Start is called before the first frame update
     private void Awake() 
@@ -90,9 +94,17 @@ public class GameManager : MonoBehaviour
         ScorePoints = PlayerPrefs.GetInt(ScorePointsPrefName, 0);
     }
 
-    float CalculoPuntaje(float time, int BillCount, float hp)
+    int CalculoPuntaje(float time, int BillCount, float hp)
     {
-      int puntaje = (int)((BillCount/time)*hp);
+        int puntaje;
+        if(GameOver)
+        {
+            puntaje = (int)((BillCount/time)*hp*time);
+        }
+        else
+        {
+            puntaje = (int)((BillCount/time)*hp);
+        }
       return puntaje;
     }
 }
