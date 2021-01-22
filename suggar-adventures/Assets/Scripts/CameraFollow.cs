@@ -12,10 +12,10 @@ public class CameraFollow : MonoBehaviour
     [SerializeField]
     private string NextScene;
     private GameObject Player;
-    private GameObject gameManager;
+    private GameManager gameManager;
     void Start()
     {
-        gameManager = GameObject.Find("GameManager");
+        gameManager = FindObjectOfType<GameManager>();
         Player = GameObject.Find("Daddy 1");
     }
 
@@ -38,7 +38,7 @@ public class CameraFollow : MonoBehaviour
         float Distancia = PlayerX - transform.position.x;
         if(Distancia < - 13)
         {
-          gameManager.SendMessage("ReiniciarJuego");
+          gameManager.ReiniciarJuego();
         }
     }
 }
