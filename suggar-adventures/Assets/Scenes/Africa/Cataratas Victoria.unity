@@ -3588,7 +3588,7 @@ GameObject:
   - component: {fileID: 1773814699}
   - component: {fileID: 1773814698}
   m_Layer: 0
-  m_Name: Quad
+  m_Name: Fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
