@@ -8,7 +8,7 @@ public class CameraFollow : MonoBehaviour
 {
     // Start is called before the first frame update
     public float SpeedMov;
-    [Range(130,200)][SerializeField] float posMax;
+    [Range(80,200)][SerializeField] float posMax;
     [SerializeField]
     private string NextScene;
     private GameObject Player;
