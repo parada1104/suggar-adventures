@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Europa/Ojo de Londres.unity
     guid: c74312ddca6bca94f9ec3916b0b3316f
+  - enabled: 1
+    path: Assets/Scenes/America/Cristo Redentor.unity
+    guid: 25336cff03807824c966d668a8cef307
+  - enabled: 1
+    path: Assets/Scenes/America/Machu Picchu.unity
+    guid: 541d35b43505e1d41b8dbc8d1d87514b
   m_configObjects: {}
