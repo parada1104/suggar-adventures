@@ -8,15 +8,15 @@ public class CameraFollow : MonoBehaviour
 {
     // Start is called before the first frame update
     public float SpeedMov;
-    public float posMax;
+    [Range(130,200)][SerializeField] float posMax;
     [SerializeField]
     private string NextScene;
-    [SerializeField]
     private GameObject Player;
     private GameObject gameManager;
     void Start()
     {
         gameManager = GameObject.Find("GameManager");
+        Player = GameObject.Find("Daddy 1");
     }
 
     // Update is called once per frame
