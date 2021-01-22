@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/America/Cataratas del iwasu.unity
     guid: 645da476900fa5d4fa153553363cb90d
   - enabled: 1
+    path: Assets/Scenes/America/Cristo Redentor.unity
+    guid: 25336cff03807824c966d668a8cef307
+  - enabled: 1
+    path: Assets/Scenes/America/Machu Picchu.unity
+    guid: 541d35b43505e1d41b8dbc8d1d87514b
+  - enabled: 1
     path: Assets/Scenes/America/Seatle.unity
     guid: fcaacf4e3c823884eb231faec401a6fe
   - enabled: 1
@@ -27,9 +33,48 @@ EditorBuildSettings:
     path: Assets/Scenes/Europa/Ojo de Londres.unity
     guid: c74312ddca6bca94f9ec3916b0b3316f
   - enabled: 1
-    path: Assets/Scenes/America/Cristo Redentor.unity
-    guid: 25336cff03807824c966d668a8cef307
+    path: Assets/Scenes/Europa/Palacio De Bookinhan.unity
+    guid: 7b1c3eefdd7f3dc4e837349e5fd6d943
   - enabled: 1
-    path: Assets/Scenes/America/Machu Picchu.unity
-    guid: 541d35b43505e1d41b8dbc8d1d87514b
+    path: Assets/Scenes/Europa/StoneHeadge.unity
+    guid: 0e4b2548ac9aba840836a49429ab23f1
+  - enabled: 1
+    path: Assets/Scenes/Oceania/Cuevas de Waitomo.unity
+    guid: 24a01b0a09323714a9802488ba75fc9d
+  - enabled: 1
+    path: Assets/Scenes/Oceania/Las Maldivas.unity
+    guid: c97e3a95b272bef4191087ed464c61c2
+  - enabled: 1
+    path: Assets/Scenes/Oceania/Sydnei.unity
+    guid: aa35f47cb50f88745ab7eff5a4efbfe6
+  - enabled: 1
+    path: Assets/Scenes/Oceania/Tahiti.unity
+    guid: c6744581f4adc8d4da42d6530cf25640
+  - enabled: 1
+    path: Assets/Scenes/Asia/Bangkok.unity
+    guid: fd1cddd87a9b2a0468b778b1607f5373
+  - enabled: 1
+    path: Assets/Scenes/Asia/Buda Tian Tan.unity
+    guid: 1ee1e95b23b629e4b921d5add958f9e4
+  - enabled: 1
+    path: Assets/Scenes/Asia/Dubai.unity
+    guid: d291c62cce268bf4b8186ced840aaa19
+  - enabled: 1
+    path: Assets/Scenes/Asia/Muralla China.unity
+    guid: ed1e6f7cb6951f44f94b64ca37307857
+  - enabled: 1
+    path: Assets/Scenes/Africa/Cataratas Victoria.unity
+    guid: a4fc9fd20f32e5f44a1f5b21e97a36e7
+  - enabled: 1
+    path: Assets/Scenes/Africa/Desierto del Sahara.unity
+    guid: 589e0970e6c831a4abb77d5046c0612d
+  - enabled: 1
+    path: Assets/Scenes/Africa/Madagascar.unity
+    guid: 9a71e2f8a1d405b4997e8f8b95dea53e
+  - enabled: 1
+    path: Assets/Scenes/Africa/Piramides.unity
+    guid: f56e2a2921a731546b5012ee2d0d4580
+  - enabled: 1
+    path: Assets/Scenes/Final Map/Antartida.unity
+    guid: 1e5f6a7b30557c24aa0c7030ae5eaa55
   m_configObjects: {}
