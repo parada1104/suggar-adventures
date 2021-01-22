@@ -72,11 +72,9 @@ public class CharacterController2D : MonoBehaviour
 				crouch = true;
 			}
 		}
-
 		//only control the player if grounded or airControl is turned on
 		if (m_Grounded || m_AirControl)
 		{
-
 			// If crouching
 			if (crouch)
 			{
@@ -85,10 +83,8 @@ public class CharacterController2D : MonoBehaviour
 					m_wasCrouching = true;
 					OnCrouchEvent.Invoke(true);
 				}
-
 				// Reduce the speed by the crouchSpeed multiplier
 				move *= m_CrouchSpeed;
-
 				// Disable one of the colliders when crouching
 				if (m_CrouchDisableCollider != null)
 					m_CrouchDisableCollider.enabled = false;
@@ -105,7 +101,6 @@ public class CharacterController2D : MonoBehaviour
 					OnCrouchEvent.Invoke(false);
 				}
 			}
-
 			// Move the character by finding the target velocity
 			Vector3 targetVelocity = new Vector2(move * 10f, m_Rigidbody2D.velocity.y);
 			// And then smoothing it out and applying it to the character
@@ -132,8 +127,6 @@ public class CharacterController2D : MonoBehaviour
 			m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
 		}
 	}
-
-
 	private void Flip()
 	{
 		// Switch the way the player is labelled as facing.

@@ -5,8 +5,6 @@ using UnityEngine;
 
 public class GuardiaManager : MonoBehaviour
 {
-    
-    
     //la variable visionRadius almacena el radio de vision que tendrá el guardia. la variable speed es la el multiplicador de la velocidad de movimiento
     public float visionRadius;
     public float visionAttackRange;
@@ -20,8 +18,11 @@ public class GuardiaManager : MonoBehaviour
     GameObject player;
     //variable para guardar la posición inicial
     Vector3 initialPosition;
+
+    private SoundManager SonidoPaso;
     void Start()
     {
+        SonidoPaso = GetComponentInChildren<SoundManager>();
         //Se busca al jugador con el Tag(se cambia el tag dentro de unity)
         player = GameObject.FindWithTag("Player");
         //Guardamos nuestra posición inicia
@@ -29,10 +30,8 @@ public class GuardiaManager : MonoBehaviour
         rb2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
-    
     void Update()
     {
-        
         //el Guardia siempre tendrá como posición inicial el primer punto
         Vector3 target = initialPosition;
         
@@ -40,13 +39,13 @@ public class GuardiaManager : MonoBehaviour
         float dist = Vector3.Distance(player.transform.position, transform.position);
         if (dist < visionRadius)
         {
-            
             target = player.transform.position;
             
             animator.SetBool("isInRange",true);
             if (dist < visionAttackRange)
             {
                 animator.SetBool("isInAttackRange",true);
+                RealizarPaso();
             }
             else
             {
@@ -56,6 +55,10 @@ public class GuardiaManager : MonoBehaviour
         else
         {
             animator.SetBool("isInRange",false);
+        }
+        if (transform.position.y < -8)
+        {
+            Destroy(gameObject);
         }
 
         
@@ -112,5 +115,10 @@ public class GuardiaManager : MonoBehaviour
             //Sen envía la señala a la función de enemyKnockBack para hacer el efecto al recibir daño
             col.SendMessage("enemyKnockBack",transform.position.x);
         }
+    }
+
+    public void RealizarPaso()
+    {
+      SonidoPaso.ReproducirSonido();
     }
 }
