@@ -8,7 +8,7 @@ public class DaddyManager : MonoBehaviour
 {
     public CharacterController2D controller;
     private Animator animator;
-    private Rigidbody2D rigidbody2D;
+    private new Rigidbody2D rigidbody2D;
     private float horizontalMovement = 0f;
     bool jump;
     float jumpPower = 3.1f;
@@ -22,15 +22,17 @@ public class DaddyManager : MonoBehaviour
     //parameters
     public float runSpeed = 40f;
 
+  public Rigidbody2D Rigidbody2D { get => rigidbody2D; set => rigidbody2D = value; }
 
-    // Start is called before the first frame update
-    void Start()
+
+  // Start is called before the first frame update
+  void Start()
     {
         SonidoPaso = GetComponentInChildren<SoundManager>();
         SonidoSalto = GetComponentInChildren<SoundManager>();
         gameManager = FindObjectOfType<GameManager>();
         animator = GetComponent<Animator>();
-        rigidbody2D = GetComponent<Rigidbody2D>();
+        Rigidbody2D = GetComponent<Rigidbody2D>();
         spr = GetComponent<SpriteRenderer>();
     }
 
@@ -76,7 +78,7 @@ public class DaddyManager : MonoBehaviour
         jump = false;
         if (jump)
         {
-            rigidbody2D.AddForce(Vector2.up*jumpPower,ForceMode2D.Impulse);
+            Rigidbody2D.AddForce(Vector2.up*jumpPower,ForceMode2D.Impulse);
         }
     }
     //Función de KnockBack al recibir daño, además del cambio en la barra de vida
@@ -87,7 +89,7 @@ public class DaddyManager : MonoBehaviour
         //Realiza el salto emulando el "impacto del golpe", además su tonalidad cambia a roja por .4 segundos
         jump = true;
         float side = Mathf.Sign(enemyPosX - transform.position.x);
-        rigidbody2D.AddForce(Vector2.left*side*jumpPower,ForceMode2D.Impulse);
+        Rigidbody2D.AddForce(Vector2.left*side*jumpPower,ForceMode2D.Impulse);
         movimiento = false;
         Invoke("ActivarMovimiento", 0.4f);
         spr.color = Color.red;
